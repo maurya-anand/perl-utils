@@ -18,8 +18,8 @@
 
     Input
 
-    ![](images/paste-751E15B1.png)
+      ![](images/paste-A103BA26.png)
 
     Output
 
-    ![](images/paste-BE5B8117.png)
+      ![](images/paste-FEC961A6.png)
