@@ -1,0 +1,2063 @@
+Sample Accession	Total Size, Mb	Study Title
+SRS9235962	50.56	Profiling the inhibitory receptors LAG-3, TIM-3, and TIGIT in renal cell carcinoma reveals malignancy
+SRS9235961	60.82	Profiling the inhibitory receptors LAG-3, TIM-3, and TIGIT in renal cell carcinoma reveals malignancy
+SRS9235960	138.18	Profiling the inhibitory receptors LAG-3, TIM-3, and TIGIT in renal cell carcinoma reveals malignancy
+SRS9235959	44.25	Profiling the inhibitory receptors LAG-3, TIM-3, and TIGIT in renal cell carcinoma reveals malignancy
+SRS9235958	47.93	Profiling the inhibitory receptors LAG-3, TIM-3, and TIGIT in renal cell carcinoma reveals malignancy
+SRS7894947	8511.14	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894940	1534.18	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894946	1819.37	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894946	1576.34	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894945	1250.13	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894944	1649.49	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894944	1099.82	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894943	1765.55	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894942	1570.12	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894941	1779.09	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894941	2070.2	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894940	1703.29	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894939	2163.23	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894938	1540.27	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894938	1753.22	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894937	5325.56	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894937	5091.41	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894936	3949.64	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894935	3127.5	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894934	3129.79	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894934	3070.05	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894932	4043.11	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894933	1581.54	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894932	3577.64	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894931	3568.51	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894930	2381.85	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894930	2434.55	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894929	2773.66	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894928	3090.59	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894928	3035.48	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894927	3171.87	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894927	2971.96	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894926	2491.86	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894919	1717.88	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894926	2674.13	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894925	2832.94	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894924	4552.85	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894923	3490.65	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894923	4549.48	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894922	4277.78	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894922	4476.52	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894921	1882.7	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894920	5653.35	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894920	4519.97	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894919	1838.04	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894918	3142.36	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894917	3219.16	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894917	3442.97	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894916	3048.21	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894915	3011.46	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894915	2533.18	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894914	3352.69	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894914	3015.84	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894913	2856.21	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894912	3265.87	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894899	2143.06	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894911	3602.13	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894911	3381.13	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894910	3405.31	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894909	4276.02	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894909	3753.15	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894908	4194.99	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894908	5088.4	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894907	3968.71	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894906	3964.55	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894906	3702.15	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894899	1398.42	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894905	2923.9	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894904	2878.52	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894904	3103.49	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894903	2901.03	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894903	3270.47	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894902	2744.25	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894901	1721.69	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894901	1308.37	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894900	2057.03	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894900	1205.45	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894899	1869.25	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7894898	1754.69	Development of a new method to accurately identify single nucleotide variants using small FFPE breast samples
+SRS7804446	7539.59	Molecular profiling of brain metastases from multiple histologies
+SRS7804444	5454.97	Molecular profiling of brain metastases from multiple histologies
+SRS7804428	7700.48	Molecular profiling of brain metastases from multiple histologies
+SRS7804427	8541.82	Molecular profiling of brain metastases from multiple histologies
+SRS7804408	7626.42	Molecular profiling of brain metastases from multiple histologies
+SRS7804443	4501.56	Molecular profiling of brain metastases from multiple histologies
+SRS7804407	8084.58	Molecular profiling of brain metastases from multiple histologies
+SRS7804406	6932.4	Molecular profiling of brain metastases from multiple histologies
+SRS7804442	4247.36	Molecular profiling of brain metastases from multiple histologies
+SRS7804405	8011.73	Molecular profiling of brain metastases from multiple histologies
+SRS7804404	9112.57	Molecular profiling of brain metastases from multiple histologies
+SRS7804441	4217.88	Molecular profiling of brain metastases from multiple histologies
+SRS7804403	9075.12	Molecular profiling of brain metastases from multiple histologies
+SRS7804402	8300.62	Molecular profiling of brain metastases from multiple histologies
+SRS7804440	4371.53	Molecular profiling of brain metastases from multiple histologies
+SRS7804401	8143.02	Molecular profiling of brain metastases from multiple histologies
+SRS7804400	7436.03	Molecular profiling of brain metastases from multiple histologies
+SRS7804439	4114.22	Molecular profiling of brain metastases from multiple histologies
+SRS7804399	8625.71	Molecular profiling of brain metastases from multiple histologies
+SRS7804398	7430.25	Molecular profiling of brain metastases from multiple histologies
+SRS7804438	4914.6	Molecular profiling of brain metastases from multiple histologies
+SRS7804397	8715.89	Molecular profiling of brain metastases from multiple histologies
+SRS7804437	4891	Molecular profiling of brain metastases from multiple histologies
+SRS7804395	6957.54	Molecular profiling of brain metastases from multiple histologies
+SRS7804394	8305.53	Molecular profiling of brain metastases from multiple histologies
+SRS7804436	3838.71	Molecular profiling of brain metastases from multiple histologies
+SRS7804393	8047.95	Molecular profiling of brain metastases from multiple histologies
+SRS7804392	7356.58	Molecular profiling of brain metastases from multiple histologies
+SRS7804391	9346.45	Molecular profiling of brain metastases from multiple histologies
+SRS7804434	4654.74	Molecular profiling of brain metastases from multiple histologies
+SRS7804390	6200.05	Molecular profiling of brain metastases from multiple histologies
+SRS7804432	4588.65	Molecular profiling of brain metastases from multiple histologies
+SRS7804433	4469.67	Molecular profiling of brain metastases from multiple histologies
+SRS7804388	8382.24	Molecular profiling of brain metastases from multiple histologies
+SRS7804387	8223.78	Molecular profiling of brain metastases from multiple histologies
+SRS7804364	8533.33	Molecular profiling of brain metastases from multiple histologies
+SRS7804363	8000.72	Molecular profiling of brain metastases from multiple histologies
+SRS7804431	5086.98	Molecular profiling of brain metastases from multiple histologies
+SRS7804430	4988.85	Molecular profiling of brain metastases from multiple histologies
+SRS7804361	7640.53	Molecular profiling of brain metastases from multiple histologies
+SRS7804360	7217.86	Molecular profiling of brain metastases from multiple histologies
+SRS7804426	9413.27	Molecular profiling of brain metastases from multiple histologies
+SRS7804425	4334.42	Molecular profiling of brain metastases from multiple histologies
+SRS7804424	7837.36	Molecular profiling of brain metastases from multiple histologies
+SRS7804423	7080.22	Molecular profiling of brain metastases from multiple histologies
+SRS7804421	3534.02	Molecular profiling of brain metastases from multiple histologies
+SRS7804422	11723.36	Molecular profiling of brain metastases from multiple histologies
+SRS7804420	7797.2	Molecular profiling of brain metastases from multiple histologies
+SRS7804419	4550.57	Molecular profiling of brain metastases from multiple histologies
+SRS7804418	8779.47	Molecular profiling of brain metastases from multiple histologies
+SRS7804417	9428.61	Molecular profiling of brain metastases from multiple histologies
+SRS7804415	9459.79	Molecular profiling of brain metastases from multiple histologies
+SRS7804414	3594	Molecular profiling of brain metastases from multiple histologies
+SRS7804413	8134.83	Molecular profiling of brain metastases from multiple histologies
+SRS7804412	5451.65	Molecular profiling of brain metastases from multiple histologies
+SRS7804411	8619.84	Molecular profiling of brain metastases from multiple histologies
+SRS7804410	6763.45	Molecular profiling of brain metastases from multiple histologies
+SRS7804409	5082.14	Molecular profiling of brain metastases from multiple histologies
+SRS7804386	6983.98	Molecular profiling of brain metastases from multiple histologies
+SRS7804385	7763.66	Molecular profiling of brain metastases from multiple histologies
+SRS7804384	4424.39	Molecular profiling of brain metastases from multiple histologies
+SRS7804383	6623.52	Molecular profiling of brain metastases from multiple histologies
+SRS7804382	6810.17	Molecular profiling of brain metastases from multiple histologies
+SRS7804381	10699.23	Molecular profiling of brain metastases from multiple histologies
+SRS7804380	8267.8	Molecular profiling of brain metastases from multiple histologies
+SRS7804379	3878.59	Molecular profiling of brain metastases from multiple histologies
+SRS7804378	4431.53	Molecular profiling of brain metastases from multiple histologies
+SRS7804377	9606.59	Molecular profiling of brain metastases from multiple histologies
+SRS7804376	9302.23	Molecular profiling of brain metastases from multiple histologies
+SRS7804375	8897.05	Molecular profiling of brain metastases from multiple histologies
+SRS7804374	7477.62	Molecular profiling of brain metastases from multiple histologies
+SRS7804373	3552.53	Molecular profiling of brain metastases from multiple histologies
+SRS7804372	8051.5	Molecular profiling of brain metastases from multiple histologies
+SRS7804371	4148.13	Molecular profiling of brain metastases from multiple histologies
+SRS7804370	7528.44	Molecular profiling of brain metastases from multiple histologies
+SRS7804369	4294.66	Molecular profiling of brain metastases from multiple histologies
+SRS7804368	6728.76	Molecular profiling of brain metastases from multiple histologies
+SRS7804367	8233.37	Molecular profiling of brain metastases from multiple histologies
+SRS7804366	4229.21	Molecular profiling of brain metastases from multiple histologies
+SRS7804365	8961.61	Molecular profiling of brain metastases from multiple histologies
+SRS7804347	3559.36	Molecular profiling of brain metastases from multiple histologies
+SRS7804344	7660.41	Molecular profiling of brain metastases from multiple histologies
+SRS2457456	1402.91	Homo sapiens Genome sequencing
+SRS2457456	4177.34	Homo sapiens Genome sequencing
+SRS2457455	962.86	Homo sapiens Genome sequencing
+SRS2457455	1927.61	Homo sapiens Genome sequencing
+SRS2457454	9119.8	Homo sapiens Genome sequencing
+SRS2457454	9393.35	Homo sapiens Genome sequencing
+SRS2457453	9274.51	Homo sapiens Genome sequencing
+SRS2457453	7646.37	Homo sapiens Genome sequencing
+SRS2457452	1975.24	Homo sapiens Genome sequencing
+SRS2457452	2155.71	Homo sapiens Genome sequencing
+SRS2457439	1597.49	Homo sapiens Genome sequencing
+SRS2457439	3575.94	Homo sapiens Genome sequencing
+SRS7316556	2308.7	Primary extramedullary plasmacytoma
+SRS7316555	1732.18	Primary extramedullary plasmacytoma
+SRS7316554	1520.5	Primary extramedullary plasmacytoma
+SRS7316553	2272.82	Primary extramedullary plasmacytoma
+SRS7316552	2186.39	Primary extramedullary plasmacytoma
+SRS7316551	1744.91	Primary extramedullary plasmacytoma
+SRS7316550	1889	Primary extramedullary plasmacytoma
+SRS7316549	2355.23	Primary extramedullary plasmacytoma
+SRS7316548	1993.23	Primary extramedullary plasmacytoma
+SRS7316547	1981.33	Primary extramedullary plasmacytoma
+SRS7316546	2624.38	Primary extramedullary plasmacytoma
+SRS7316545	1827.94	Primary extramedullary plasmacytoma
+SRS7160671	4593.3	Spliced peptides and cytokine driven changes in the immunopeptidome of melanoma
+SRS6705549	736.91	Whole exome sequencing of parental and resistant cell lines to a selective CDK12 degrader
+SRS6705548	814.56	Whole exome sequencing of parental and resistant cell lines to a selective CDK12 degrader
+SRS6705546	713.25	Whole exome sequencing of parental and resistant cell lines to a selective CDK12 degrader
+SRS6705547	764.69	Whole exome sequencing of parental and resistant cell lines to a selective CDK12 degrader
+SRS6497974	3147.88	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497973	3585.06	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497972	3395.04	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497971	2354.86	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497970	2806.36	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497969	2776.64	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497968	2710.78	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497967	3333.78	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497966	3591.29	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497965	2798.38	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497964	4049.72	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497963	2950.47	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497962	2835.99	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497961	3539.3	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497960	3141.31	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497959	2912.39	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497958	2761.06	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497957	4491.02	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497956	2316.81	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497955	3517.38	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497954	3754.5	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497953	2470.59	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497952	2969.37	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497951	2629.35	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497950	2537.72	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497949	2687.97	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497948	3763.89	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6497947	3625.83	Annotation and functional characterization of long noncoding RNAs deregulated in pancreatic adenocarcinoma
+SRS6463879	363.97	Bisphosphonate treated patients exome sequencing
+SRS6262723	773.67	Tumor mutational burden and aneuploidy
+SRS6262722	1000.67	Tumor mutational burden and aneuploidy
+SRS6262721	1708.6	Tumor mutational burden and aneuploidy
+SRS6262720	967.74	Tumor mutational burden and aneuploidy
+SRS6262719	615.14	Tumor mutational burden and aneuploidy
+SRS6262718	1896.37	Tumor mutational burden and aneuploidy
+SRS6262717	716.03	Tumor mutational burden and aneuploidy
+SRS6262716	1537.55	Tumor mutational burden and aneuploidy
+SRS6262715	1508.04	Tumor mutational burden and aneuploidy
+SRS6262714	450.12	Tumor mutational burden and aneuploidy
+SRS6262713	1270.2	Tumor mutational burden and aneuploidy
+SRS6262712	666.62	Tumor mutational burden and aneuploidy
+SRS6262711	1749.93	Tumor mutational burden and aneuploidy
+SRS6262710	591.38	Tumor mutational burden and aneuploidy
+SRS6262709	1028.74	Tumor mutational burden and aneuploidy
+SRS6262708	469.09	Tumor mutational burden and aneuploidy
+SRS6262707	1495.8	Tumor mutational burden and aneuploidy
+SRS6262706	663	Tumor mutational burden and aneuploidy
+SRS6262705	1381.8	Tumor mutational burden and aneuploidy
+SRS6262704	1220.5	Tumor mutational burden and aneuploidy
+SRS6262703	1261.48	Tumor mutational burden and aneuploidy
+SRS6262702	975.56	Tumor mutational burden and aneuploidy
+SRS6262701	635.08	Tumor mutational burden and aneuploidy
+SRS6262700	1099.72	Tumor mutational burden and aneuploidy
+SRS6262699	552.59	Tumor mutational burden and aneuploidy
+SRS6262698	1930.76	Tumor mutational burden and aneuploidy
+SRS6262696	492.51	Tumor mutational burden and aneuploidy
+SRS6262697	1304.62	Tumor mutational burden and aneuploidy
+SRS6262695	572.03	Tumor mutational burden and aneuploidy
+SRS6262694	1483.69	Tumor mutational burden and aneuploidy
+SRS6262693	925.96	Tumor mutational burden and aneuploidy
+SRS6262692	656.25	Tumor mutational burden and aneuploidy
+SRS6262691	1068.41	Tumor mutational burden and aneuploidy
+SRS6262690	579.4	Tumor mutational burden and aneuploidy
+SRS6262689	1020.88	Tumor mutational burden and aneuploidy
+SRS6262688	689	Tumor mutational burden and aneuploidy
+SRS6262687	1092.74	Tumor mutational burden and aneuploidy
+SRS6262686	978.63	Tumor mutational burden and aneuploidy
+SRS6262685	1104.61	Tumor mutational burden and aneuploidy
+SRS6262684	565.93	Tumor mutational burden and aneuploidy
+SRS6262683	558.67	Tumor mutational burden and aneuploidy
+SRS6262682	1039.19	Tumor mutational burden and aneuploidy
+SRS6262681	521.17	Tumor mutational burden and aneuploidy
+SRS6262680	989.33	Tumor mutational burden and aneuploidy
+SRS6262679	583.96	Tumor mutational burden and aneuploidy
+SRS6262678	1019.92	Tumor mutational burden and aneuploidy
+SRS6262677	646.92	Tumor mutational burden and aneuploidy
+SRS6262676	1824.9	Tumor mutational burden and aneuploidy
+SRS6262675	1420.38	Tumor mutational burden and aneuploidy
+SRS6262674	1305.44	Tumor mutational burden and aneuploidy
+SRS6262673	683.19	Tumor mutational burden and aneuploidy
+SRS6262672	1000.16	Tumor mutational burden and aneuploidy
+SRS6262671	1744.52	Tumor mutational burden and aneuploidy
+SRS6262670	1291.34	Tumor mutational burden and aneuploidy
+SRS6262669	537.55	Tumor mutational burden and aneuploidy
+SRS6262668	1147.62	Tumor mutational burden and aneuploidy
+SRS6262667	1655.74	Tumor mutational burden and aneuploidy
+SRS6262666	1721.38	Tumor mutational burden and aneuploidy
+SRS6262665	1380.33	Tumor mutational burden and aneuploidy
+SRS6262664	1287.69	Tumor mutational burden and aneuploidy
+SRS6262663	1654.45	Tumor mutational burden and aneuploidy
+SRS6262662	1248.32	Tumor mutational burden and aneuploidy
+SRS6262661	1364.44	Tumor mutational burden and aneuploidy
+SRS6262660	1309.37	Tumor mutational burden and aneuploidy
+SRS6079213	4658.15	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079212	5119.78	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079210	4828.96	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079211	4798.81	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079209	4157.61	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079214	5510.91	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079207	4608.4	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079206	3631.43	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079204	4031.22	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079208	5076.77	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079203	3964.41	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079201	4041.85	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079205	3726.08	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079202	4392.7	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079200	4447.88	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079199	4947.87	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079197	4248.84	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079198	4075.16	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079196	4522.12	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079194	4312	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079193	4812.99	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079195	4667.92	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079192	3965.29	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079190	4097.84	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079189	3446.16	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079188	4517.05	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079187	5209.11	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079191	3981.31	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079186	4048.5	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079185	3637.16	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079184	3967.53	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079182	4019.92	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079183	3449.95	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079181	4691.88	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079179	3999.39	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079178	4259.42	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079177	3731.6	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079180	4358.11	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS6079176	5275.96	Genetic Heterogeneity and Evolutionary History of High-Grade Ovarian Carcinoma and Matched Distant Metastases
+SRS5364145	6001.21	Exome sequencing tracking the evolution of Wilms Tumor through diagnosis, blastemal, and relapse
+SRS5364144	7378.25	Exome sequencing tracking the evolution of Wilms Tumor through diagnosis, blastemal, and relapse
+SRS5364143	1730.74	Exome sequencing tracking the evolution of Wilms Tumor through diagnosis, blastemal, and relapse
+SRS5364142	1893.93	Exome sequencing tracking the evolution of Wilms Tumor through diagnosis, blastemal, and relapse
+SRS5359018	8761.24	Homo sapiens Exome
+SRS4232257	4852.74	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232256	4829.83	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232255	4322.96	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232254	4328.4	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232253	4200.63	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232252	3951.14	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232251	3610.04	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232250	4285.01	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232249	3959.81	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232248	4379.94	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232247	4529.07	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232246	4437.54	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232245	4255.86	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232244	4646.64	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232243	3923.16	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232242	4571.25	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232241	4214.48	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232240	4283.55	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232239	4317.18	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232238	4459.92	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232237	4794.57	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232236	4066.2	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232235	4559.74	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232234	3507.67	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232233	4105.02	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232232	4301.87	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232231	4225.57	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232230	3791.77	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232229	3655.57	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232228	4661.41	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232227	4435.4	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232226	4449.02	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232225	4330.7	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232224	3894.14	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232223	4761.51	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232222	4056.06	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232221	4617.93	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS4232220	3836.27	Genomic Whole-Organ Map of Mucosal Field Effects Initiating Human Bladder Carcinogenesis
+SRS3665763	2241.55	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665762	2010.31	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665761	2302.73	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665760	2535.82	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665759	2128.9	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665758	2078.99	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665757	2041.02	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665756	2002.58	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665755	2388.71	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665754	2160.48	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665753	1257.65	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665752	1190.43	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665751	504.7	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665750	1185.4	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665749	1158.28	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665748	1077.76	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665747	1119.07	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665746	1442.63	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665745	1446.21	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665743	1479.18	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665744	1796.03	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665742	1743.31	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665741	393.41	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665740	2089.79	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665739	643.22	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665738	637.57	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665737	1265.49	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665736	1344.16	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665734	1300.6	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665733	1462.27	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665735	2535.37	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665731	2407.05	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665730	2809.01	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665732	3043.41	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665729	3097.16	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665728	841.73	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665727	804	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665725	800.06	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665724	769	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3665726	818.11	Exome sequencing of plasma DNA in patients receiving palbociclib and fulvestrant in the PALOMA-3 trial
+SRS3450636	3624.15	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3450631	2870.76	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3450612	3048.48	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3450611	4209.22	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3450628	2457.35	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3450626	3470.79	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3450629	2337.16	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3450627	3567.65	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3450634	2293.91	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3450630	3970.18	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3450633	3028.37	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3450632	1811.04	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3450625	2845.54	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3450624	1587.81	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3450616	3183.49	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3450613	3681.32	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3450618	3020.59	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3450615	2360.4	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3450620	2628.47	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3450617	2468.06	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3450621	1462.13	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3450619	3008.32	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3450623	2851.58	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3450622	4640.25	Evofosfamide for the treatment of human papillomavirus-negative head and neck squamous cell carcinoma
+SRS3418628	8343.94	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418629	8469.32	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418627	8710.4	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418626	8654.06	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418625	9756.78	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418624	8692.3	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418623	10245.13	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418622	9146.53	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418621	8613.16	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418620	9693.7	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418618	9827.38	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418617	10457.69	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418616	10388.03	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418615	10789.37	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418614	9782.04	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418613	9284.32	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418612	9920.27	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418611	9257.34	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418610	9392.84	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418609	10384.38	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418608	9039.56	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418607	10129.68	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418606	13552.28	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418605	9508.24	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418604	9242.78	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418603	7349.85	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418601	20441.15	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418602	6984.17	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418600	8429.29	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418599	9944.38	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418598	8034.89	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418597	10108.29	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418596	9433.18	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418595	8338.36	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418594	7720.18	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418593	10684.09	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418592	11300.46	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418619	10214.64	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418591	9464.77	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418590	10578	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418589	9460.29	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418587	10465.63	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418588	10467.51	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418586	10783.44	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418585	10806.69	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418584	11401.06	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418583	9610.06	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418581	9618.04	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418582	9806.13	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418579	10247.71	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418580	11639.03	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418578	4797.48	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418577	9889.44	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418576	12684.21	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418575	9395.85	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418574	9796.15	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418573	8542.61	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418572	8657.69	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418571	8884.99	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418570	8408.2	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418569	14097.74	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418568	15581.8	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418567	14399.39	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418566	14052.96	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418565	14165.02	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418564	13463.83	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418563	13948.54	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418562	12105.29	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418561	14658.8	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418560	14732.6	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418559	10428.19	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418558	10102.72	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418557	12066.15	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418556	10727.49	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418555	10152.61	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418554	12091.97	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418553	10001.77	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418552	10948.29	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418551	8876.45	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418550	11541.33	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418549	8968.61	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418548	12906.94	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418547	9353.71	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418546	10108.64	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418545	7495.2	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418544	8884.03	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418543	11132.45	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418542	9862.31	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418541	8890.02	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418540	2156.66	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418539	7978.38	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418538	10052.97	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418537	9481.51	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418536	14491.29	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418535	10935.44	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418534	11201.2	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418533	7738.96	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418532	9790.55	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418531	10519.37	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418530	10173.84	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418529	4241.27	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418528	6065.87	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418527	11366.37	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418526	4088.07	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418525	2509.28	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418524	8719.71	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418523	9197.6	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418522	7765.21	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418521	9258.88	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418520	7268.22	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418519	8467.1	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418518	9602.98	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418517	7776.4	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418516	9842.26	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418515	8631.95	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418514	9639.09	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418513	12293.78	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418512	8097.18	Multi-region whole exome sequencing of ten ESCC patients
+SRS3418511	8107.91	Multi-region whole exome sequencing of ten ESCC patients
+SRS3177923	3312.25	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177922	1649.64	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177921	1597.15	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177919	1423.55	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177920	662.6	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177916	1299.32	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177918	575.82	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177917	1261.54	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177915	1124.13	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177914	1181.62	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177913	942.58	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177924	911.17	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177911	770.55	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177910	817.64	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177912	1338.92	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177909	2689.23	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177908	1197.65	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177907	991.2	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177906	992.95	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177904	1095.32	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177905	809.37	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177903	310.5	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177902	752.79	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177900	851.61	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177901	1113.21	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177898	1087.84	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177899	2067.34	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177897	368.12	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177896	473.61	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177895	768.06	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177894	1217.59	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177893	1400.54	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177892	1523.06	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177891	2152.36	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177890	1083.23	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177889	1855.04	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177888	2003.65	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177886	1353.5	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177887	1377.45	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177885	2074.94	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177884	893.84	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177883	599.44	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177881	1682.25	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177882	1900.84	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177880	2005.58	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177879	1094.06	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177878	2354.43	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177877	864.44	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177876	2342.67	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177875	921.06	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177874	1731.01	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177873	1538.68	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177872	889.5	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177871	1914.13	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177870	1066.77	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177869	1215.99	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177868	1875.89	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177867	1013.21	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177866	830.11	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177865	1081.38	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177864	2210.31	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177863	1216.67	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177862	1210.65	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177861	738.42	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177858	1105.59	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177860	1305.52	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177859	1281.08	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177857	1158.98	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177856	1075.74	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177855	1050.83	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177854	1169.83	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177853	847.4	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177851	1661.02	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177850	338.29	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177852	367.69	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177849	1030.45	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177848	752.86	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177847	1264.47	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177846	1426.1	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177845	1603.31	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177844	1547.96	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177843	814.94	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177842	884.45	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177840	1212.17	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177838	985.41	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177839	700.87	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177841	1308.6	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177837	1710.8	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177836	1872.76	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177835	1359.05	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177834	969.53	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177832	906.18	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177833	717.41	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177831	1716.86	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177830	1609.38	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177828	1187.29	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177829	1154.56	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177827	1326.22	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177826	1251.9	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177825	3085.05	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177823	1040.9	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177824	491.83	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177822	1359.68	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177821	1089.75	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177820	709.51	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177818	1361.13	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177817	610.7	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177819	1288.77	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177816	1527	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177815	1084.3	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177813	1560.11	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177814	914.99	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177810	898.47	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177812	1027.72	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177809	1503.78	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177807	856.78	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177808	1071.83	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177811	960.08	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177806	1338.54	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3178353	1311.96	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3177805	1957.39	Dynamics of genome alterations in Crohn's disease associated colorectal carcinogenesis
+SRS3118872	2831.13	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118871	3130.91	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118870	2978.97	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118869	2677.21	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118868	3270.14	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118867	2726	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118866	2457.98	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118865	2679.96	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118864	3359.51	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118862	3332.79	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118863	2531.48	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118861	3339.45	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118860	2555.81	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118855	3907.62	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118858	3060.29	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118857	3440.87	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118859	3638.17	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118856	3095.87	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118852	2087.3	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118854	2110.29	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118851	3422.44	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118853	2966.25	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118850	1935.02	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118849	1997.9	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118848	1990.64	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118847	2864	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118846	2885.6	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118845	2797.24	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118844	2384.13	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118843	3042.83	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118842	4408.24	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118841	3971.97	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118840	3841.97	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118839	2858.72	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118838	3305.1	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118837	3396.21	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118836	3892.19	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118835	4247.2	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118834	3863.16	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118833	2493.21	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118832	5541.47	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118831	3280.78	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118830	3529.42	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118829	1788.07	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118828	2213.77	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118827	2056.98	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118826	2119.05	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118825	3396.33	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118873	2096.5	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118824	3195.21	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118823	2705.41	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118822	3007.26	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118821	3273.87	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118820	1979.86	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118819	3642.06	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118818	2597.16	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118817	2464.34	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118816	2782.64	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118815	2982.43	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118814	2424.84	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118811	2539.87	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118813	2502.07	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3118812	2814.64	Whole exome sequencing of multi-regional biopsies from metastatic lesions to evaluate tumour heterogeneity and actionable truncal mutations using a radiologically-guided single-pass percutaneous technique.
+SRS3086620	5818.31	Integrated genomic analysis of Hurthle cell carcinoma reveals novel oncogenic drivers, recurrent mitochondrial mutations, and unique chromosomal landscapes
+SRS3086577	5245.14	Integrated genomic analysis of Hurthle cell carcinoma reveals novel oncogenic drivers, recurrent mitochondrial mutations, and unique chromosomal landscapes
+SRS3009359	1807.27	Gain-of-function mutations in DNMT3A in patients with paraganglioma
+SRS3009358	2650.58	Gain-of-function mutations in DNMT3A in patients with paraganglioma
+SRS3009357	2396.9	Gain-of-function mutations in DNMT3A in patients with paraganglioma
+ERS1462637	1373.55	Single-cell WES
+ERS1462636	1631.41	Single-cell WES
+ERS1462635	1235	Single-cell WES
+ERS1462634	1244.92	Single-cell WES
+ERS1462633	939.44	Single-cell WES
+ERS1462632	969.26	Single-cell WES
+ERS1462631	865.34	Single-cell WES
+ERS1462630	1122.93	Single-cell WES
+ERS1462629	1087.65	Single-cell WES
+ERS1462628	1081	Single-cell WES
+ERS1462627	1313.71	Single-cell WES
+ERS1462626	1263.57	Single-cell WES
+ERS1462625	1221.25	Single-cell WES
+ERS1462624	1236.68	Single-cell WES
+ERS1462623	1240.74	Single-cell WES
+ERS1462622	1335.7	Single-cell WES
+ERS1462621	1518.64	Single-cell WES
+ERS1462620	1374.13	Single-cell WES
+ERS1462619	1458.21	Single-cell WES
+ERS1462618	1607.53	Single-cell WES
+ERS1462617	1471.44	Single-cell WES
+ERS1462616	1159.28	Single-cell WES
+ERS1462615	1224.07	Single-cell WES
+ERS1462614	1363.39	Single-cell WES
+ERS1462612	1232.63	Single-cell WES
+ERS1462609	1288.22	Single-cell WES
+ERS1462608	1217.78	Single-cell WES
+ERS1462607	1100.13	Single-cell WES
+ERS1462605	1297.54	Single-cell WES
+ERS1462604	1079.08	Single-cell WES
+ERS1462603	1147.87	Single-cell WES
+ERS1462602	1172.76	Single-cell WES
+ERS1462601	1394.73	Single-cell WES
+ERS1462600	1359.5	Single-cell WES
+ERS1462599	1374.95	Single-cell WES
+ERS1462598	1293.02	Single-cell WES
+ERS1462597	1239.43	Single-cell WES
+ERS1462596	1052.81	Single-cell WES
+ERS1462595	1387.39	Single-cell WES
+ERS1462594	1223.76	Single-cell WES
+ERS1462593	1060.26	Single-cell WES
+ERS1462592	1397.77	Single-cell WES
+ERS1462591	1353.63	Single-cell WES
+ERS1462590	1680.75	Single-cell WES
+ERS1462588	1276.31	Single-cell WES
+ERS1462587	1093.54	Single-cell WES
+ERS1462586	1365.72	Single-cell WES
+ERS1462585	1128.05	Single-cell WES
+ERS1462584	1161.8	Single-cell WES
+ERS1462583	1368.64	Single-cell WES
+ERS1462582	1582.96	Single-cell WES
+ERS1462581	1270.86	Single-cell WES
+ERS1462577	645.43	Single-cell WES
+ERS1462572	1408.66	Single-cell WES
+ERS1462571	1186.04	Single-cell WES
+ERS1462570	4514.76	Single-cell WES
+ERS1462569	5346.93	Single-cell WES
+ERS1462568	4713.37	Single-cell WES
+ERS1462567	4435.49	Single-cell WES
+ERS1462566	4240.12	Single-cell WES
+ERS1462561	4666.04	Single-cell WES
+ERS1462560	4797.16	Single-cell WES
+ERS1462557	3979.5	Single-cell WES
+ERS1462552	4910.9	Single-cell WES
+ERS1462551	5438.73	Single-cell WES
+ERS1462550	5679.77	Single-cell WES
+ERS1462546	4761.64	Single-cell WES
+ERS1462545	5169.69	Single-cell WES
+ERS1462544	4959.31	Single-cell WES
+ERS1462542	5087.39	Single-cell WES
+ERS1462541	5234.53	Single-cell WES
+ERS1462540	5251.65	Single-cell WES
+ERS1462539	5502.85	Single-cell WES
+ERS1462538	4658.21	Single-cell WES
+ERS1462537	4325.87	Single-cell WES
+ERS1462536	6080.04	Single-cell WES
+ERS1462535	5790.44	Single-cell WES
+ERS1462534	6662.74	Single-cell WES
+ERS1462533	5643.11	Single-cell WES
+ERS1462532	4459.63	Single-cell WES
+ERS1462531	5409.22	Single-cell WES
+ERS1462528	5631.09	Single-cell WES
+ERS1462526	4618.18	Single-cell WES
+ERS1462525	5467.82	Single-cell WES
+ERS1462524	4875.45	Single-cell WES
+ERS1462518	4613.47	Single-cell WES
+ERS1462514	8169.76	Single-cell WES
+ERS1462512	4572.12	Single-cell WES
+ERS1462511	5239.98	Single-cell WES
+ERS1462510	6319.15	Single-cell WES
+ERS1462509	5232.95	Single-cell WES
+ERS1462508	6509.16	Single-cell WES
+ERS1462503	4954.01	Single-cell WES
+ERS1462500	4888.41	Single-cell WES
+ERS1462498	3647.98	Single-cell WES
+ERS1462497	5248.12	Single-cell WES
+ERS1462496	6746.39	Single-cell WES
+ERS1462495	3998	Single-cell WES
+ERS1462491	3840.87	Single-cell WES
+SRS1661899	4103.74	NUT Midline Carcinoma Sequencing Project
+SRS1661898	3965.79	NUT Midline Carcinoma Sequencing Project
+SRS1661894	4210.27	NUT Midline Carcinoma Sequencing Project
+SRS1661893	3783.62	NUT Midline Carcinoma Sequencing Project
+SRS1661892	3891.19	NUT Midline Carcinoma Sequencing Project
+SRS1661891	4108.66	NUT Midline Carcinoma Sequencing Project
+SRS1661897	4218.44	NUT Midline Carcinoma Sequencing Project
+SRS1661896	4232.14	NUT Midline Carcinoma Sequencing Project
+SRS1661890	3945.92	NUT Midline Carcinoma Sequencing Project
+SRS1661889	4929.48	NUT Midline Carcinoma Sequencing Project
+SRS1661888	4116.4	NUT Midline Carcinoma Sequencing Project
+SRS1661887	4521.22	NUT Midline Carcinoma Sequencing Project
+SRS1661886	4449.64	NUT Midline Carcinoma Sequencing Project
+SRS2805380	12149.6	Homo sapiens Genome sequencing and assembly
+SRS2805380	9451.89	Homo sapiens Genome sequencing and assembly
+SRS2805380	11313.5	Homo sapiens Genome sequencing and assembly
+SRS2805380	11457.83	Homo sapiens Genome sequencing and assembly
+SRS2805380	9832.38	Homo sapiens Genome sequencing and assembly
+SRS2805380	10566.02	Homo sapiens Genome sequencing and assembly
+SRS2805380	12211.33	Homo sapiens Genome sequencing and assembly
+SRS2805380	9069	Homo sapiens Genome sequencing and assembly
+SRS2805380	9955.97	Homo sapiens Genome sequencing and assembly
+SRS2805380	7299.67	Homo sapiens Genome sequencing and assembly
+SRS2805380	11188.61	Homo sapiens Genome sequencing and assembly
+SRS2805380	10525.91	Homo sapiens Genome sequencing and assembly
+SRS2805380	8587.98	Homo sapiens Genome sequencing and assembly
+SRS2805380	9714.33	Homo sapiens Genome sequencing and assembly
+SRS2805380	9206.78	Homo sapiens Genome sequencing and assembly
+SRS2805380	8307.33	Homo sapiens Genome sequencing and assembly
+SRS2805380	8235.84	Homo sapiens Genome sequencing and assembly
+SRS2805380	11050.86	Homo sapiens Genome sequencing and assembly
+SRS2802903	4190.35	Homo sapiens Exome
+SRS2802902	3537.21	Homo sapiens Exome
+SRS2802901	4902.1	Homo sapiens Exome
+SRS2802900	5821.97	Homo sapiens Exome
+SRS2802899	4309.87	Homo sapiens Exome
+SRS2802898	4392.83	Homo sapiens Exome
+SRS2802897	4044.13	Homo sapiens Exome
+SRS2802896	3976.39	Homo sapiens Exome
+SRS2802895	3883.57	Homo sapiens Exome
+SRS2802894	3426.14	Homo sapiens Exome
+SRS2802893	3841.97	Homo sapiens Exome
+SRS2802892	3733.64	Homo sapiens Exome
+SRS2802891	7188.28	Homo sapiens Exome
+SRS2802890	7692.91	Homo sapiens Exome
+SRS2802889	4965.88	Homo sapiens Exome
+SRS2802888	5954.64	Homo sapiens Exome
+SRS2802887	5037.01	Homo sapiens Exome
+SRS2802886	7256.15	Homo sapiens Exome
+SRS2802885	6159.29	Homo sapiens Exome
+SRS2802884	4018.32	Homo sapiens Exome
+SRS2802883	6162.24	Homo sapiens Exome
+SRS2802882	6622.93	Homo sapiens Exome
+SRS2802881	6544.81	Homo sapiens Exome
+SRS2802880	6981.5	Homo sapiens Exome
+SRS2802879	6310.56	Homo sapiens Exome
+SRS2802878	6143.53	Homo sapiens Exome
+SRS2802877	6289.65	Homo sapiens Exome
+SRS2802876	4059.42	Homo sapiens Exome
+SRS2802875	6731.17	Homo sapiens Exome
+SRS2802874	3535.71	Homo sapiens Exome
+SRS2802873	3049.31	Homo sapiens Exome
+SRS2802872	4132.69	Homo sapiens Exome
+SRS2802871	3891.66	Homo sapiens Exome
+SRS2802870	4140.29	Homo sapiens Exome
+SRS2802869	3291.68	Homo sapiens Exome
+SRS2802868	3392.17	Homo sapiens Exome
+SRS2802867	3895.27	Homo sapiens Exome
+SRS2802866	3525.45	Homo sapiens Exome
+SRS2802865	4593.78	Homo sapiens Exome
+SRS2802864	4052.24	Homo sapiens Exome
+SRS2791012	3099.78	Homo sapiens Exome for ESCC cohort
+SRS2791011	3091.53	Homo sapiens Exome for ESCC cohort
+SRS2791010	3446.96	Homo sapiens Exome for ESCC cohort
+SRS2791013	2990.42	Homo sapiens Exome for ESCC cohort
+SRS2791009	3272.98	Homo sapiens Exome for ESCC cohort
+SRS2791008	2691.09	Homo sapiens Exome for ESCC cohort
+SRS2791006	4230.04	Homo sapiens Exome for ESCC cohort
+SRS2791005	3588.57	Homo sapiens Exome for ESCC cohort
+SRS2791004	3002.62	Homo sapiens Exome for ESCC cohort
+SRS2791003	2687.87	Homo sapiens Exome for ESCC cohort
+SRS2791002	3376.84	Homo sapiens Exome for ESCC cohort
+SRS2791001	3312.33	Homo sapiens Exome for ESCC cohort
+SRS2791000	3155.49	Homo sapiens Exome for ESCC cohort
+SRS2790999	2914.82	Homo sapiens Exome for ESCC cohort
+SRS2790998	3424.91	Homo sapiens Exome for ESCC cohort
+SRS2790997	2958.43	Homo sapiens Exome for ESCC cohort
+SRS2790996	2911.3	Homo sapiens Exome for ESCC cohort
+SRS2790995	3560.14	Homo sapiens Exome for ESCC cohort
+SRS2790994	3331.95	Homo sapiens Exome for ESCC cohort
+SRS2790993	4081.4	Homo sapiens Exome for ESCC cohort
+SRS2790992	3600.09	Homo sapiens Exome for ESCC cohort
+SRS2790991	2959.81	Homo sapiens Exome for ESCC cohort
+SRS2790990	3048.32	Homo sapiens Exome for ESCC cohort
+SRS2790989	2819.76	Homo sapiens Exome for ESCC cohort
+SRS2790988	3578.03	Homo sapiens Exome for ESCC cohort
+SRS2790987	3840.88	Homo sapiens Exome for ESCC cohort
+SRS2790986	3102.07	Homo sapiens Exome for ESCC cohort
+SRS2790985	3511.32	Homo sapiens Exome for ESCC cohort
+SRS2790984	2670.35	Homo sapiens Exome for ESCC cohort
+SRS2790983	2780.21	Homo sapiens Exome for ESCC cohort
+SRS2790982	3236.1	Homo sapiens Exome for ESCC cohort
+SRS2790981	3539	Homo sapiens Exome for ESCC cohort
+SRS2790980	4831.84	Homo sapiens Exome for ESCC cohort
+SRS2790979	3512.76	Homo sapiens Exome for ESCC cohort
+SRS2790978	3451.54	Homo sapiens Exome for ESCC cohort
+SRS2790977	3209.96	Homo sapiens Exome for ESCC cohort
+SRS2790976	3215.67	Homo sapiens Exome for ESCC cohort
+SRS2790972	3476.55	Homo sapiens Exome for ESCC cohort
+SRS2790973	3290.75	Homo sapiens Exome for ESCC cohort
+SRS2790971	3719.32	Homo sapiens Exome for ESCC cohort
+SRS2790974	3316.96	Homo sapiens Exome for ESCC cohort
+SRS2790975	3636.67	Homo sapiens Exome for ESCC cohort
+SRS2790970	3629.64	Homo sapiens Exome for ESCC cohort
+SRS2790969	3657.48	Homo sapiens Exome for ESCC cohort
+SRS2790967	3720.51	Homo sapiens Exome for ESCC cohort
+SRS2790968	3315.61	Homo sapiens Exome for ESCC cohort
+SRS2790966	3781.2	Homo sapiens Exome for ESCC cohort
+SRS2790965	3284.3	Homo sapiens Exome for ESCC cohort
+SRS2790964	4467.18	Homo sapiens Exome for ESCC cohort
+SRS2790963	3367.3	Homo sapiens Exome for ESCC cohort
+SRS2790962	3234.08	Homo sapiens Exome for ESCC cohort
+SRS2790961	2889.97	Homo sapiens Exome for ESCC cohort
+SRS2790960	3416.42	Homo sapiens Exome for ESCC cohort
+SRS2790958	3181.04	Homo sapiens Exome for ESCC cohort
+SRS2790959	3149.54	Homo sapiens Exome for ESCC cohort
+SRS2790957	2965.85	Homo sapiens Exome for ESCC cohort
+SRS2790954	2708.76	Homo sapiens Exome for ESCC cohort
+SRS2790955	2904.71	Homo sapiens Exome for ESCC cohort
+SRS2790956	4115	Homo sapiens Exome for ESCC cohort
+SRS2790953	3022.11	Homo sapiens Exome for ESCC cohort
+SRS2790952	3980.85	Homo sapiens Exome for ESCC cohort
+SRS2790950	3965.07	Homo sapiens Exome for ESCC cohort
+SRS2790951	3028.46	Homo sapiens Exome for ESCC cohort
+SRS2790949	4394.86	Homo sapiens Exome for ESCC cohort
+SRS2790947	3027.69	Homo sapiens Exome for ESCC cohort
+SRS2790948	3255.22	Homo sapiens Exome for ESCC cohort
+SRS2790946	3564.11	Homo sapiens Exome for ESCC cohort
+SRS2790945	2614.6	Homo sapiens Exome for ESCC cohort
+SRS2790943	3056.38	Homo sapiens Exome for ESCC cohort
+SRS2790944	3168.47	Homo sapiens Exome for ESCC cohort
+SRS2790942	3206.03	Homo sapiens Exome for ESCC cohort
+SRS2790940	3289.72	Homo sapiens Exome for ESCC cohort
+SRS2790941	4422.34	Homo sapiens Exome for ESCC cohort
+SRS2790939	2964.53	Homo sapiens Exome for ESCC cohort
+SRS2790937	3523.93	Homo sapiens Exome for ESCC cohort
+SRS2790938	2996.33	Homo sapiens Exome for ESCC cohort
+SRS2790936	3400.4	Homo sapiens Exome for ESCC cohort
+SRS2790935	3265.56	Homo sapiens Exome for ESCC cohort
+SRS2790934	3830.84	Homo sapiens Exome for ESCC cohort
+SRS2790932	3180.3	Homo sapiens Exome for ESCC cohort
+SRS2790933	2638.33	Homo sapiens Exome for ESCC cohort
+SRS2790931	3199.73	Homo sapiens Exome for ESCC cohort
+SRS2790930	3759.72	Homo sapiens Exome for ESCC cohort
+SRS2790929	3611.89	Homo sapiens Exome for ESCC cohort
+SRS2790928	4005	Homo sapiens Exome for ESCC cohort
+SRS2790927	3541.87	Homo sapiens Exome for ESCC cohort
+SRS2790926	3139.86	Homo sapiens Exome for ESCC cohort
+SRS2790924	3067.4	Homo sapiens Exome for ESCC cohort
+SRS2790925	3298.19	Homo sapiens Exome for ESCC cohort
+SRS2790923	3032.99	Homo sapiens Exome for ESCC cohort
+SRS2790922	3316.69	Homo sapiens Exome for ESCC cohort
+SRS2790921	3323.64	Homo sapiens Exome for ESCC cohort
+SRS2790920	3521.62	Homo sapiens Exome for ESCC cohort
+SRS2790919	3584.87	Homo sapiens Exome for ESCC cohort
+SRS2790918	2653.81	Homo sapiens Exome for ESCC cohort
+SRS2790917	2745.68	Homo sapiens Exome for ESCC cohort
+SRS2790916	3033.71	Homo sapiens Exome for ESCC cohort
+SRS2790915	2810.55	Homo sapiens Exome for ESCC cohort
+SRS2790914	2734.41	Homo sapiens Exome for ESCC cohort
+SRS2790913	3040.57	Homo sapiens Exome for ESCC cohort
+SRS2790912	3931.04	Homo sapiens Exome for ESCC cohort
+SRS2790911	2936.66	Homo sapiens Exome for ESCC cohort
+SRS2790910	2611.32	Homo sapiens Exome for ESCC cohort
+SRS2790909	2737.12	Homo sapiens Exome for ESCC cohort
+SRS2790908	3232.73	Homo sapiens Exome for ESCC cohort
+SRS2790907	2797.91	Homo sapiens Exome for ESCC cohort
+SRS2790906	2617.34	Homo sapiens Exome for ESCC cohort
+SRS2790905	1821.77	Homo sapiens Exome for ESCC cohort
+SRS2790904	3530.69	Homo sapiens Exome for ESCC cohort
+SRS2790901	3364.55	Homo sapiens Exome for ESCC cohort
+SRS2790903	3320.52	Homo sapiens Exome for ESCC cohort
+SRS2790902	3189.74	Homo sapiens Exome for ESCC cohort
+SRS2790900	2706.25	Homo sapiens Exome for ESCC cohort
+SRS2790899	2940.57	Homo sapiens Exome for ESCC cohort
+SRS2790897	2950.12	Homo sapiens Exome for ESCC cohort
+SRS2790898	2911.77	Homo sapiens Exome for ESCC cohort
+SRS2790896	2859.27	Homo sapiens Exome for ESCC cohort
+SRS2790894	3631.08	Homo sapiens Exome for ESCC cohort
+SRS2790895	3169.21	Homo sapiens Exome for ESCC cohort
+SRS2790892	2735.57	Homo sapiens Exome for ESCC cohort
+SRS2790893	3877.12	Homo sapiens Exome for ESCC cohort
+SRS2790891	2933.99	Homo sapiens Exome for ESCC cohort
+SRS2790890	2760.06	Homo sapiens Exome for ESCC cohort
+SRS2790889	2748.35	Homo sapiens Exome for ESCC cohort
+SRS2791007	2961.05	Homo sapiens Exome for ESCC cohort
+SRS2790888	3113.65	Homo sapiens Exome for ESCC cohort
+SRS2790887	3797.43	Homo sapiens Exome for ESCC cohort
+SRS2790886	3007.04	Homo sapiens Exome for ESCC cohort
+SRS2790884	3085.09	Homo sapiens Exome for ESCC cohort
+SRS2790885	3316.14	Homo sapiens Exome for ESCC cohort
+SRS2790881	3601.47	Homo sapiens Exome for ESCC cohort
+SRS2790882	3983.32	Homo sapiens Exome for ESCC cohort
+SRS2790883	3279.88	Homo sapiens Exome for ESCC cohort
+SRS2790880	3636.23	Homo sapiens Exome for ESCC cohort
+SRS2790879	3137.52	Homo sapiens Exome for ESCC cohort
+SRS2790878	3297.91	Homo sapiens Exome for ESCC cohort
+SRS2790877	2795.5	Homo sapiens Exome for ESCC cohort
+SRS2790875	3440.13	Homo sapiens Exome for ESCC cohort
+SRS2790874	3301.39	Homo sapiens Exome for ESCC cohort
+SRS2790873	3014.2	Homo sapiens Exome for ESCC cohort
+SRS2790876	2882.06	Homo sapiens Exome for ESCC cohort
+SRS2790872	2990.26	Homo sapiens Exome for ESCC cohort
+SRS2790871	3612.89	Homo sapiens Exome for ESCC cohort
+SRS2790870	3282.9	Homo sapiens Exome for ESCC cohort
+SRS2790868	3509.31	Homo sapiens Exome for ESCC cohort
+SRS2790869	3309.46	Homo sapiens Exome for ESCC cohort
+SRS2790867	3949.5	Homo sapiens Exome for ESCC cohort
+SRS2790866	3769.74	Homo sapiens Exome for ESCC cohort
+SRS2790864	3414.79	Homo sapiens Exome for ESCC cohort
+SRS2790863	4128.96	Homo sapiens Exome for ESCC cohort
+SRS2790865	3468.4	Homo sapiens Exome for ESCC cohort
+SRS2790862	3262.1	Homo sapiens Exome for ESCC cohort
+SRS2790861	3573.82	Homo sapiens Exome for ESCC cohort
+SRS2790860	3231.19	Homo sapiens Exome for ESCC cohort
+SRS2525725	21.84	Homo sapiens Raw sequence reads
+SRS2525724	28.27	Homo sapiens Raw sequence reads
+SRS2525723	20.79	Homo sapiens Raw sequence reads
+SRS2525722	53.72	Homo sapiens Raw sequence reads
+SRS2525714	17.23	Homo sapiens Raw sequence reads
+SRS2525720	23.47	Homo sapiens Raw sequence reads
+SRS2525712	40.45	Homo sapiens Raw sequence reads
+SRS2514267	4789.02	Homo sapiens Genome sequencing and assembly
+SRS2514266	3909.83	Homo sapiens Genome sequencing and assembly
+SRS2514265	4462.91	Homo sapiens Genome sequencing and assembly
+SRS2514264	4736.36	Homo sapiens Genome sequencing and assembly
+SRS2514263	4062.36	Homo sapiens Genome sequencing and assembly
+SRS2514262	4367.39	Homo sapiens Genome sequencing and assembly
+SRS2514261	5471.92	Homo sapiens Genome sequencing and assembly
+SRS2514260	5681.41	Homo sapiens Genome sequencing and assembly
+SRS2514259	3272.13	Homo sapiens Genome sequencing and assembly
+SRS2514258	3289.97	Homo sapiens Genome sequencing and assembly
+SRS2514257	3566.99	Homo sapiens Genome sequencing and assembly
+SRS2514256	3731.85	Homo sapiens Genome sequencing and assembly
+SRS2514255	3654.83	Homo sapiens Genome sequencing and assembly
+SRS2514254	4085.81	Homo sapiens Genome sequencing and assembly
+SRS2514253	3904.49	Homo sapiens Genome sequencing and assembly
+SRS2514252	3969.38	Homo sapiens Genome sequencing and assembly
+SRS2514251	3169.83	Homo sapiens Genome sequencing and assembly
+SRS2514250	3910.05	Homo sapiens Genome sequencing and assembly
+SRS2514249	3032.95	Homo sapiens Genome sequencing and assembly
+SRS2514248	3180.78	Homo sapiens Genome sequencing and assembly
+SRS2514247	3165.62	Homo sapiens Genome sequencing and assembly
+SRS2514246	3254.87	Homo sapiens Genome sequencing and assembly
+SRS2514245	3406.8	Homo sapiens Genome sequencing and assembly
+SRS2514244	3280.31	Homo sapiens Genome sequencing and assembly
+SRS2514243	3439.05	Homo sapiens Genome sequencing and assembly
+SRS2514242	3393.3	Homo sapiens Genome sequencing and assembly
+SRS2514241	3076.48	Homo sapiens Genome sequencing and assembly
+SRS2514240	2901.49	Homo sapiens Genome sequencing and assembly
+SRS2514238	4233.45	Homo sapiens Genome sequencing and assembly
+SRS2514239	3218.79	Homo sapiens Genome sequencing and assembly
+SRS2514237	3363.25	Homo sapiens Genome sequencing and assembly
+SRS2514236	4009.99	Homo sapiens Genome sequencing and assembly
+SRS2514235	2785.46	Homo sapiens Genome sequencing and assembly
+SRS2514234	3645.4	Homo sapiens Genome sequencing and assembly
+SRS2514233	2912.74	Homo sapiens Genome sequencing and assembly
+SRS2514232	4089.1	Homo sapiens Genome sequencing and assembly
+SRS2514231	2868.95	Homo sapiens Genome sequencing and assembly
+SRS2514230	2843.26	Homo sapiens Genome sequencing and assembly
+SRS2514229	3635.29	Homo sapiens Genome sequencing and assembly
+SRS2514228	3162.05	Homo sapiens Genome sequencing and assembly
+SRS2514227	3789.14	Homo sapiens Genome sequencing and assembly
+SRS2514226	3506.1	Homo sapiens Genome sequencing and assembly
+SRS2514225	4297.51	Homo sapiens Genome sequencing and assembly
+SRS2514224	4662.39	Homo sapiens Genome sequencing and assembly
+SRS2514223	4037.73	Homo sapiens Genome sequencing and assembly
+SRS2514222	4544.25	Homo sapiens Genome sequencing and assembly
+SRS2514220	4010	Homo sapiens Genome sequencing and assembly
+SRS2514221	3866.76	Homo sapiens Genome sequencing and assembly
+SRS2484456	2226.26	Homo sapiens Exome
+SRS2484455	3718.95	Homo sapiens Exome
+SRS2484454	2812.18	Homo sapiens Exome
+SRS2484453	2890.98	Homo sapiens Exome
+SRS2484452	4243.46	Homo sapiens Exome
+SRS2484451	5805.69	Homo sapiens Exome
+SRS2484450	4728.12	Homo sapiens Exome
+SRS2484449	6023.73	Homo sapiens Exome
+SRS2484448	7718.71	Homo sapiens Exome
+SRS2484447	3613.02	Homo sapiens Exome
+SRS2484446	2051.65	Homo sapiens Exome
+SRS2484443	3330.78	Homo sapiens Exome
+SRS2484444	2983.61	Homo sapiens Exome
+SRS2484445	4446.77	Homo sapiens Exome
+SRS2484442	2724.5	Homo sapiens Exome
+SRS2484441	2788.6	Homo sapiens Exome
+SRS2484440	3053.55	Homo sapiens Exome
+SRS2484439	2397.6	Homo sapiens Exome
+SRS2484438	3998.55	Homo sapiens Exome
+SRS2484437	2651.06	Homo sapiens Exome
+SRS2484436	3688.13	Homo sapiens Exome
+SRS2484435	2959.87	Homo sapiens Exome
+SRS2484434	3284	Homo sapiens Exome
+SRS2484433	2748.98	Homo sapiens Exome
+SRS2484432	3180.71	Homo sapiens Exome
+SRS2484431	3188.57	Homo sapiens Exome
+SRS2484430	3056.89	Homo sapiens Exome
+SRS2484429	3266.14	Homo sapiens Exome
+SRS2484428	3283.42	Homo sapiens Exome
+SRS2484427	3022.78	Homo sapiens Exome
+SRS2484426	2779.37	Homo sapiens Exome
+SRS2484425	4165.28	Homo sapiens Exome
+SRS2484424	2466.34	Homo sapiens Exome
+SRS2484423	3048.42	Homo sapiens Exome
+SRS2484422	3196.25	Homo sapiens Exome
+SRS2484421	2682.91	Homo sapiens Exome
+SRS2484420	4287.48	Homo sapiens Exome
+SRS2484419	3298.47	Homo sapiens Exome
+SRS2484418	2173.44	Homo sapiens Exome
+SRS2484417	2474.77	Homo sapiens Exome
+SRS2484416	3235.92	Homo sapiens Exome
+SRS2484415	3195.06	Homo sapiens Exome
+SRS2484414	2686.94	Homo sapiens Exome
+SRS2484413	2953.94	Homo sapiens Exome
+SRS2484412	3651.98	Homo sapiens Exome
+SRS2484411	4802.39	Homo sapiens Exome
+SRS2484410	3060.93	Homo sapiens Exome
+SRS2484409	4903.7	Homo sapiens Exome
+SRS2484408	3544.13	Homo sapiens Exome
+SRS2484407	2689	Homo sapiens Exome
+SRS2484406	4227.24	Homo sapiens Exome
+SRS2484405	3447.38	Homo sapiens Exome
+SRS2484404	2865.3	Homo sapiens Exome
+SRS2484403	3275.07	Homo sapiens Exome
+SRS2484401	2813.1	Homo sapiens Exome
+SRS2484402	2313.13	Homo sapiens Exome
+SRS2484400	2504.35	Homo sapiens Exome
+SRS2484399	3859.8	Homo sapiens Exome
+SRS2484397	4978.96	Homo sapiens Exome
+SRS2484398	3502.54	Homo sapiens Exome
+SRS2484396	5958.02	Homo sapiens Exome
+SRS2484395	2029.68	Homo sapiens Exome
+SRS2484394	3358.22	Homo sapiens Exome
+SRS2484393	3031.82	Homo sapiens Exome
+SRS2484392	2147.36	Homo sapiens Exome
+SRS2484391	5571.06	Homo sapiens Exome
+SRS2484390	3205.47	Homo sapiens Exome
+SRS2484389	3082.55	Homo sapiens Exome
+SRS2484388	1920.53	Homo sapiens Exome
+SRS2484387	1890.93	Homo sapiens Exome
+SRS2484386	3811.31	Homo sapiens Exome
+SRS2484385	3831.41	Homo sapiens Exome
+SRS2484384	2901.2	Homo sapiens Exome
+SRS2484383	2847.26	Homo sapiens Exome
+SRS2484382	3582.02	Homo sapiens Exome
+SRS2484381	3536.61	Homo sapiens Exome
+SRS2484380	3003.84	Homo sapiens Exome
+SRS2484378	3285.28	Homo sapiens Exome
+SRS2484379	2586.09	Homo sapiens Exome
+SRS2484377	3100.33	Homo sapiens Exome
+SRS2484376	2507.64	Homo sapiens Exome
+SRS2484375	4488.53	Homo sapiens Exome
+SRS2484374	4109.52	Homo sapiens Exome
+SRS2484373	2686.75	Homo sapiens Exome
+SRS2484372	2337.64	Homo sapiens Exome
+SRS2484371	3307.07	Homo sapiens Exome
+SRS2484370	3947.76	Homo sapiens Exome
+SRS2484369	2926.54	Homo sapiens Exome
+SRS2484368	3137.04	Homo sapiens Exome
+SRS2484367	2988.49	Homo sapiens Exome
+SRS2484366	3986.96	Homo sapiens Exome
+SRS2484365	2303.51	Homo sapiens Exome
+SRS2484364	4668.14	Homo sapiens Exome
+SRS2484363	3714.8	Homo sapiens Exome
+SRS2484362	3682.42	Homo sapiens Exome
+SRS2484361	4004.29	Homo sapiens Exome
+SRS2484360	2683.76	Homo sapiens Exome
+SRS2484359	3471.92	Homo sapiens Exome
+SRS2484358	1925.51	Homo sapiens Exome
+SRS2484357	3585.86	Homo sapiens Exome
+SRS2484356	4008.04	Homo sapiens Exome
+SRS2484355	2829.77	Homo sapiens Exome
+SRS2484354	3133.45	Homo sapiens Exome
+SRS2484353	4164.34	Homo sapiens Exome
+SRS2484352	8495.52	Homo sapiens Exome
+SRS2484351	2690.17	Homo sapiens Exome
+SRS2484350	3356.52	Homo sapiens Exome
+SRS2484349	3121.85	Homo sapiens Exome
+SRS2484348	6223.63	Homo sapiens Exome
+SRS2484347	5071.35	Homo sapiens Exome
+SRS2484346	3163.32	Homo sapiens Exome
+SRS2484345	3261.87	Homo sapiens Exome
+SRS2484344	2996.11	Homo sapiens Exome
+SRS2484343	3281.06	Homo sapiens Exome
+SRS2484342	2936.51	Homo sapiens Exome
+SRS2484341	3543.93	Homo sapiens Exome
+SRS2484340	3475.25	Homo sapiens Exome
+SRS2484339	4643.92	Homo sapiens Exome
+SRS2484338	7142.11	Homo sapiens Exome
+SRS2484337	3676.2	Homo sapiens Exome
+SRS2484336	3390.35	Homo sapiens Exome
+SRS2484335	3887.73	Homo sapiens Exome
+SRS2484334	6104.24	Homo sapiens Exome
+SRS2484333	7978.61	Homo sapiens Exome
+SRS2484332	3819.53	Homo sapiens Exome
+SRS2484331	4485.06	Homo sapiens Exome
+SRS2484330	9253.15	Homo sapiens Exome
+SRS2484329	2485.91	Homo sapiens Exome
+SRS2484328	4339.98	Homo sapiens Exome
+SRS2484327	4437.42	Homo sapiens Exome
+SRS2484326	3444.36	Homo sapiens Exome
+SRS2484325	3171.82	Homo sapiens Exome
+SRS2484324	2810.17	Homo sapiens Exome
+SRS2484323	3934.46	Homo sapiens Exome
+SRS2484322	4505.87	Homo sapiens Exome
+SRS2484321	6426.62	Homo sapiens Exome
+SRS2484320	6728.86	Homo sapiens Exome
+SRS2484319	4235.8	Homo sapiens Exome
+SRS2484318	3936.87	Homo sapiens Exome
+SRS2484317	5640.1	Homo sapiens Exome
+SRS2484316	5135.56	Homo sapiens Exome
+SRS2484315	8069.28	Homo sapiens Exome
+SRS2484314	3143.36	Homo sapiens Exome
+SRS2484313	3501.56	Homo sapiens Exome
+SRS2484312	2876.93	Homo sapiens Exome
+SRS2484311	3572.92	Homo sapiens Exome
+SRS2484310	6859.99	Homo sapiens Exome
+SRS2484309	2658.93	Homo sapiens Exome
+SRS2484308	5375.63	Homo sapiens Exome
+SRS2484307	7242.8	Homo sapiens Exome
+SRS2484306	5526.66	Homo sapiens Exome
+SRS2484305	4164.22	Homo sapiens Exome
+SRS2484304	4948.3	Homo sapiens Exome
+SRS2484303	4920.96	Homo sapiens Exome
+SRS2484302	4355.25	Homo sapiens Exome
+SRS2484301	7573	Homo sapiens Exome
+SRS1958312	940248.14	Homo sapiens Exome
+SRS2364655	8486.01	Exome sequencing analysis of cases chosen from two independent Renal Agenesis (RA) pedigrees.
+SRS2364657	8605.46	Exome sequencing analysis of cases chosen from two independent Renal Agenesis (RA) pedigrees.
+SRS2364658	6224.11	Exome sequencing analysis of cases chosen from two independent Renal Agenesis (RA) pedigrees.
+SRS2364656	6361.96	Exome sequencing analysis of cases chosen from two independent Renal Agenesis (RA) pedigrees.
+SRS2227651	17096.94	BRCA1/2 Tumors
+SRS2227650	7463.63	BRCA1/2 Tumors
+SRS2227649	6806.41	BRCA1/2 Tumors
+SRS2227648	18693.62	BRCA1/2 Tumors
+SRS2227647	17969.66	BRCA1/2 Tumors
+SRS2227646	8325.53	BRCA1/2 Tumors
+SRS2227645	23624.89	BRCA1/2 Tumors
+SRS2227644	6205.68	BRCA1/2 Tumors
+SRS2227642	20555.29	BRCA1/2 Tumors
+SRS2227643	6766.35	BRCA1/2 Tumors
+SRS2227641	20485.99	BRCA1/2 Tumors
+SRS2227640	17321.35	BRCA1/2 Tumors
+SRS2227639	11626.92	BRCA1/2 Tumors
+SRS2227638	9271.02	BRCA1/2 Tumors
+SRS2227637	3556.14	BRCA1/2 Tumors
+SRS2227636	22154.37	BRCA1/2 Tumors
+SRS2227634	17444.13	BRCA1/2 Tumors
+SRS2227635	11203	BRCA1/2 Tumors
+SRS2227633	14865.03	BRCA1/2 Tumors
+SRS2227632	16623.87	BRCA1/2 Tumors
+SRS2227631	11407.96	BRCA1/2 Tumors
+SRS2227630	8269.55	BRCA1/2 Tumors
+SRS2227629	5574.96	BRCA1/2 Tumors
+SRS2227628	5046.07	BRCA1/2 Tumors
+SRS2227627	6975.61	BRCA1/2 Tumors
+SRS2227626	12131.71	BRCA1/2 Tumors
+SRS2227625	13206.57	BRCA1/2 Tumors
+SRS2227624	21348.27	BRCA1/2 Tumors
+SRS2227623	14929.61	BRCA1/2 Tumors
+SRS2227621	4862.42	BRCA1/2 Tumors
+SRS2227622	20798.46	BRCA1/2 Tumors
+SRS2227620	30858.81	BRCA1/2 Tumors
+SRS2227619	18970.49	BRCA1/2 Tumors
+SRS2227618	10083.17	BRCA1/2 Tumors
+SRS2227617	4296.59	BRCA1/2 Tumors
+SRS2227616	10093.03	BRCA1/2 Tumors
+SRS2227615	11554.76	BRCA1/2 Tumors
+SRS2227614	4790.53	BRCA1/2 Tumors
+SRS2227613	8549.96	BRCA1/2 Tumors
+SRS2227612	5899.46	BRCA1/2 Tumors
+SRS2227611	5169.43	BRCA1/2 Tumors
+SRS2227610	16912.41	BRCA1/2 Tumors
+SRS2227609	20261.32	BRCA1/2 Tumors
+SRS2227608	4820.46	BRCA1/2 Tumors
+SRS2227606	6395.84	BRCA1/2 Tumors
+SRS2227607	3529.96	BRCA1/2 Tumors
+SRS2227605	12247.91	BRCA1/2 Tumors
+SRS2227604	2554.5	BRCA1/2 Tumors
+SRS2227603	8342.01	BRCA1/2 Tumors
+SRS2227602	1485.76	BRCA1/2 Tumors
+SRS2227601	5418.59	BRCA1/2 Tumors
+SRS2227600	5224.15	BRCA1/2 Tumors
+SRS2227599	4487.87	BRCA1/2 Tumors
+SRS2227598	7292.33	BRCA1/2 Tumors
+SRS2227597	13080.65	BRCA1/2 Tumors
+SRS2227596	14804.62	BRCA1/2 Tumors
+SRS2227595	9435.5	BRCA1/2 Tumors
+SRS2227593	3221.4	BRCA1/2 Tumors
+SRS2227594	7634.48	BRCA1/2 Tumors
+SRS2227592	10335.74	BRCA1/2 Tumors
+ERS1058655	2670.45	We use single-cell derived xenografts to study the expansion of tumours in vivo and performed whole-exome sequencing to determine the underlying evolutionary dynamics.
+ERS1058654	3396.43	We use single-cell derived xenografts to study the expansion of tumours in vivo and performed whole-exome sequencing to determine the underlying evolutionary dynamics.
+ERS1058653	3229.82	We use single-cell derived xenografts to study the expansion of tumours in vivo and performed whole-exome sequencing to determine the underlying evolutionary dynamics.
+SRS1892476	8462.67	Homo sapiens Genome sequencing
+SRS1924148	3880.72	Homo sapiens Genome sequencing
+SRS1924148	3784.28	Homo sapiens Genome sequencing
+SRS1896514	5361.98	Homo sapiens Genome sequencing
+SRS1896514	5439.35	Homo sapiens Genome sequencing
+SRS1896514	5127.15	Homo sapiens Genome sequencing
+SRS1896514	5488.15	Homo sapiens Genome sequencing
+SRS1896514	5640.69	Homo sapiens Genome sequencing
+SRS1896484	5127.12	Homo sapiens Genome sequencing
+SRS1896484	5532.26	Homo sapiens Genome sequencing
+SRS1896484	5206.49	Homo sapiens Genome sequencing
+SRS1896470	8886.13	Homo sapiens Genome sequencing
+SRS1896470	8776.63	Homo sapiens Genome sequencing
+SRS1896470	9008.31	Homo sapiens Genome sequencing
+SRS1892476	8487.09	Homo sapiens Genome sequencing
+SRS1892476	9792.13	Homo sapiens Genome sequencing
+SRS1892476	9461.69	Homo sapiens Genome sequencing
+SRS1892476	9914.25	Homo sapiens Genome sequencing
+SRS1892476	9094.96	Homo sapiens Genome sequencing
+SRS1924148	2338.12	Homo sapiens Genome sequencing
+SRS1896514	5100.58	Homo sapiens Genome sequencing
+SRS1896484	5330.57	Homo sapiens Genome sequencing
+SRS1896470	8398.86	Homo sapiens Genome sequencing
+SRS1958312	7134.87	Homo sapiens Exome
+SRS1958044	3989.82	Circulating tumor DNA reflects treatment response and clonal evolution in chronic lymphocytic leukemia
+SRS1958043	1590.71	Circulating tumor DNA reflects treatment response and clonal evolution in chronic lymphocytic leukemia
+SRS1958042	1679.36	Circulating tumor DNA reflects treatment response and clonal evolution in chronic lymphocytic leukemia
+SRS1958041	9236.05	Circulating tumor DNA reflects treatment response and clonal evolution in chronic lymphocytic leukemia
+SRS1958040	9178.11	Circulating tumor DNA reflects treatment response and clonal evolution in chronic lymphocytic leukemia
+SRS1958039	3903.26	Circulating tumor DNA reflects treatment response and clonal evolution in chronic lymphocytic leukemia
+SRS1958038	2062.77	Circulating tumor DNA reflects treatment response and clonal evolution in chronic lymphocytic leukemia
+SRS1958037	1846.82	Circulating tumor DNA reflects treatment response and clonal evolution in chronic lymphocytic leukemia
+SRS1958036	9607.33	Circulating tumor DNA reflects treatment response and clonal evolution in chronic lymphocytic leukemia
+SRS1958035	9744.76	Circulating tumor DNA reflects treatment response and clonal evolution in chronic lymphocytic leukemia
+SRS1958034	1852.94	Circulating tumor DNA reflects treatment response and clonal evolution in chronic lymphocytic leukemia
+SRS1958033	818.98	Circulating tumor DNA reflects treatment response and clonal evolution in chronic lymphocytic leukemia
+SRS1958032	1929.35	Circulating tumor DNA reflects treatment response and clonal evolution in chronic lymphocytic leukemia
+SRS1958031	784.85	Circulating tumor DNA reflects treatment response and clonal evolution in chronic lymphocytic leukemia
+SRS1958030	9515.67	Circulating tumor DNA reflects treatment response and clonal evolution in chronic lymphocytic leukemia
+SRS1958029	3387.73	Circulating tumor DNA reflects treatment response and clonal evolution in chronic lymphocytic leukemia
+SRS1958028	1401.15	Circulating tumor DNA reflects treatment response and clonal evolution in chronic lymphocytic leukemia
+SRS1958027	4177.32	Circulating tumor DNA reflects treatment response and clonal evolution in chronic lymphocytic leukemia
+SRS1958026	1456.38	Circulating tumor DNA reflects treatment response and clonal evolution in chronic lymphocytic leukemia
+SRS1958025	6447.12	Circulating tumor DNA reflects treatment response and clonal evolution in chronic lymphocytic leukemia
+SRS1958024	7685.85	Circulating tumor DNA reflects treatment response and clonal evolution in chronic lymphocytic leukemia
+SRS1958023	8812.58	Circulating tumor DNA reflects treatment response and clonal evolution in chronic lymphocytic leukemia
+SRS1958022	8755.48	Circulating tumor DNA reflects treatment response and clonal evolution in chronic lymphocytic leukemia
+SRS1901151	683.39	Genomic structural changes of extremely methotrexate resistant cells
+SRS1901149	719.22	Genomic structural changes of extremely methotrexate resistant cells
+SRS1872322	7461.29	Case Report - TNBC TP53 positive patient
+SRS1851372	780.62	Mutation spectra of alkylating agent resistant cells after extreme selection with MNU
+SRS1851371	782.21	Mutation spectra of alkylating agent resistant cells after extreme selection with MNU
+SRS1851370	821.24	Mutation spectra of alkylating agent resistant cells after extreme selection with MNU
+SRS1851369	843.39	Mutation spectra of alkylating agent resistant cells after extreme selection with MNU
+SRS1851368	784.2	Mutation spectra of alkylating agent resistant cells after extreme selection with MNU
+SRS1815270	1782.53	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815269	4782.9	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815268	2900.15	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815267	1962.73	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815266	1836.82	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815265	4043.12	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815264	2299.7	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815263	710.65	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815262	3837.41	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815261	1839.12	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815260	2025.44	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815259	2617.17	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815258	3230.08	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815257	2278.38	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815256	2872.16	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815255	5515.83	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815254	1886.92	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815253	1600.47	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815252	6521.92	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815251	2952.23	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815250	4764.61	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815249	4208.25	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815248	1280.91	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815247	3298.35	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1815246	3588.58	Whole exome sequencing of splenic diffuse red pulp lymphoma
+SRS1603263	4425.88	Homo sapiens Exome
+SRS1603262	4664.88	Homo sapiens Exome
+SRS1603261	4537.88	Homo sapiens Exome
+SRS1603260	4948.44	Homo sapiens Exome
+SRS1603259	3909.84	Homo sapiens Exome
+SRS1603258	4403.45	Homo sapiens Exome
+SRS1603257	4016.44	Homo sapiens Exome
+SRS1603256	4862.57	Homo sapiens Exome
+SRS1603255	4615.88	Homo sapiens Exome
+SRS1603254	3584.16	Homo sapiens Exome
+SRS1603253	3470.74	Homo sapiens Exome
+SRS1603252	4644.51	Homo sapiens Exome
+SRS1603251	4793.14	Homo sapiens Exome
+SRS1603250	4348.59	Homo sapiens Exome
+SRS1603249	4935.54	Homo sapiens Exome
+SRS1603248	4422.65	Homo sapiens Exome
+SRS1603247	4154.16	Homo sapiens Exome
+SRS1603246	4602.38	Homo sapiens Exome
+SRS1603245	5151.34	Homo sapiens Exome
+SRS1603244	4088.31	Homo sapiens Exome
+SRS1603243	4999.45	Homo sapiens Exome
+SRS1603242	5073.86	Homo sapiens Exome
+SRS1603241	2256.19	Homo sapiens Exome
+SRS1603240	4786.41	Homo sapiens Exome
+SRS1603239	4544.61	Homo sapiens Exome
+SRS1603238	5200.06	Homo sapiens Exome
+SRS1603237	5115.35	Homo sapiens Exome
+SRS1603236	5000.12	Homo sapiens Exome
+SRS1603235	4665.82	Homo sapiens Exome
+SRS1554453	2854.45	Homo sapiens Exome
+SRS1554452	2408.56	Homo sapiens Exome
+SRS1554451	2626.19	Homo sapiens Exome
+SRS1554450	3947.01	Homo sapiens Exome
+SRS1554449	3289.18	Homo sapiens Exome
+SRS1554448	3602.02	Homo sapiens Exome
+SRS1554447	6118.92	Homo sapiens Exome
+SRS1554446	2492.05	Homo sapiens Exome
+SRS1554445	4115.25	Homo sapiens Exome
+SRS1554444	5851.78	Homo sapiens Exome
+SRS1554442	4311.16	Homo sapiens Exome
+SRS1554441	6061.24	Homo sapiens Exome
+SRS1554440	5902.54	Homo sapiens Exome
+SRS1554439	4997.57	Homo sapiens Exome
+SRS1554438	2432.08	Homo sapiens Exome
+SRS1554437	5231.41	Homo sapiens Exome
+SRS1554436	4873.06	Homo sapiens Exome
+SRS1554435	4776.37	Homo sapiens Exome
+SRS1554434	1534.96	Homo sapiens Exome
+SRS1554433	5263.15	Homo sapiens Exome
+SRS1554431	1310.56	Homo sapiens Exome
+SRS1554429	5185.19	Homo sapiens Exome
+SRS1554430	1256.03	Homo sapiens Exome
+SRS1554428	5084.71	Homo sapiens Exome
+SRS1554427	2693.63	Homo sapiens Exome
+SRS1554426	3632.63	Homo sapiens Exome
+SRS1554425	2312.47	Homo sapiens Exome
+SRS1554424	3926.86	Homo sapiens Exome
+SRS1554423	5417.8	Homo sapiens Exome
+SRS1554422	5434.7	Homo sapiens Exome
+SRS1554421	2567.46	Homo sapiens Exome
+SRS1554419	3653.24	Homo sapiens Exome
+SRS1554418	5296.18	Homo sapiens Exome
+SRS1554417	2144.22	Homo sapiens Exome
+SRS1554416	5418.59	Homo sapiens Exome
+SRS1554415	5336.5	Homo sapiens Exome
+SRS1554414	5229.07	Homo sapiens Exome
+SRS1554413	4853.52	Homo sapiens Exome
+SRS1554412	6482.39	Homo sapiens Exome
+SRS1554411	3767.08	Homo sapiens Exome
+SRS1554409	6092.33	Homo sapiens Exome
+SRS1554408	5228.87	Homo sapiens Exome
+SRS1554407	1877.06	Homo sapiens Exome
+SRS1554406	4177.24	Homo sapiens Exome
+SRS1554405	5592.21	Homo sapiens Exome
+SRS1554404	2081.1	Homo sapiens Exome
+SRS1554403	5776.66	Homo sapiens Exome
+SRS1554356	1538.03	Homo sapiens Exome
+SRS1554355	1691.59	Homo sapiens Exome
+SRS1554354	1620.1	Homo sapiens Exome
+SRS1554353	1753.68	Homo sapiens Exome
+SRS1554352	2649.91	Homo sapiens Exome
+SRS1554351	2876.39	Homo sapiens Exome
+SRS1493072	5794.28	Whole exome sequencing of BT474 cell line derivatives
+SRS1493071	5443.38	Whole exome sequencing of BT474 cell line derivatives
+SRS1493067	2503.08	Whole exome sequencing of BT474 cell line derivatives
+SRS1493064	2724.47	Whole exome sequencing of BT474 cell line derivatives
+SRS1468120	3078.04	Anorectal malformation Genome sequencing
+SRS1468119	3015.59	Anorectal malformation Genome sequencing
+SRS1468118	3590.84	Anorectal malformation Genome sequencing
+SRS1468117	3003.59	Anorectal malformation Genome sequencing
+SRS1468116	8025.14	Anorectal malformation Genome sequencing
+SRS1468115	2875.39	Anorectal malformation Genome sequencing
+SRS1468114	2901.12	Anorectal malformation Genome sequencing
+SRS1468113	2600.62	Anorectal malformation Genome sequencing
+SRS1446900	3164.75	Follicular thyroid tumor Genome sequencing
+SRS1446899	3216.89	Follicular thyroid tumor Genome sequencing
+SRS1446895	2374.79	Follicular thyroid tumor Genome sequencing
+SRS1446894	2995.65	Follicular thyroid tumor Genome sequencing
+SRS1446893	3012.02	Follicular thyroid tumor Genome sequencing
+SRS1446892	2505.44	Follicular thyroid tumor Genome sequencing
+SRS1446891	2398.89	Follicular thyroid tumor Genome sequencing
+SRS1446890	3300.57	Follicular thyroid tumor Genome sequencing
+SRS1446889	2441.48	Follicular thyroid tumor Genome sequencing
+SRS1446888	2192.05	Follicular thyroid tumor Genome sequencing
+SRS1446887	2416.76	Follicular thyroid tumor Genome sequencing
+SRS1446886	2051.67	Follicular thyroid tumor Genome sequencing
+SRS1446883	2302.75	Follicular thyroid tumor Genome sequencing
+SRS1446879	2541.19	Follicular thyroid tumor Genome sequencing
+SRS1446877	2299.13	Follicular thyroid tumor Genome sequencing
+SRS1446875	2541.85	Follicular thyroid tumor Genome sequencing
+SRS1446874	3420.81	Follicular thyroid tumor Genome sequencing
+SRS1446872	2345.09	Follicular thyroid tumor Genome sequencing
+SRS1446870	2010.38	Follicular thyroid tumor Genome sequencing
+SRS1446867	2163.29	Follicular thyroid tumor Genome sequencing
+SRS1446866	2434.72	Follicular thyroid tumor Genome sequencing
+SRS1446865	2813.54	Follicular thyroid tumor Genome sequencing
+SRS1111195	7696.49	Homo sapiens Genome sequencing
+SRS1111196	7836.73	Homo sapiens Genome sequencing
+SRS1111197	6432.13	Homo sapiens Genome sequencing
+SRS1111198	7811.27	Homo sapiens Genome sequencing
+SRS1111182	7583.69	Homo sapiens Genome sequencing
+SRS1111183	7797.99	Homo sapiens Genome sequencing
+SRS1111184	8825.09	Homo sapiens Genome sequencing
+SRS1111185	8646.81	Homo sapiens Genome sequencing
+SRS1111186	8027.97	Homo sapiens Genome sequencing
+SRS1111187	7481.14	Homo sapiens Genome sequencing
+SRS1111188	5510.7	Homo sapiens Genome sequencing
+SRS1111189	7712.55	Homo sapiens Genome sequencing
+SRS1111190	8147.37	Homo sapiens Genome sequencing
+SRS1111191	7032.53	Homo sapiens Genome sequencing
+SRS1111192	7629.41	Homo sapiens Genome sequencing
+SRS1111193	7974.06	Homo sapiens Genome sequencing
+SRS1111194	7180.2	Homo sapiens Genome sequencing
+SRS1111168	7161.14	Homo sapiens Genome sequencing
+SRS1111169	7302.85	Homo sapiens Genome sequencing
+SRS1111170	7233.52	Homo sapiens Genome sequencing
+SRS1111171	9070.44	Homo sapiens Genome sequencing
+SRS1111172	5607.62	Homo sapiens Genome sequencing
+SRS1111173	7876.02	Homo sapiens Genome sequencing
+SRS1111174	8082.75	Homo sapiens Genome sequencing
+SRS1111175	8074.54	Homo sapiens Genome sequencing
+SRS1111176	7950.67	Homo sapiens Genome sequencing
+SRS1111177	7722.27	Homo sapiens Genome sequencing
+SRS1111178	8221.03	Homo sapiens Genome sequencing
+SRS1111179	9480.24	Homo sapiens Genome sequencing
+SRS1111180	5056.29	Homo sapiens Genome sequencing
+SRS1111181	6453.13	Homo sapiens Genome sequencing
+SRS1111143	6160.72	Homo sapiens Genome sequencing
+SRS1111144	5861.35	Homo sapiens Genome sequencing
+SRS1111145	6585.61	Homo sapiens Genome sequencing
+SRS1111147	7245.27	Homo sapiens Genome sequencing
+SRS1111146	6702.05	Homo sapiens Genome sequencing
+SRS1111148	7160.92	Homo sapiens Genome sequencing
+SRS1111149	6901.22	Homo sapiens Genome sequencing
+SRS1111150	6437.73	Homo sapiens Genome sequencing
+SRS1111151	5939.06	Homo sapiens Genome sequencing
+SRS1111152	5975.38	Homo sapiens Genome sequencing
+SRS1111154	6571.69	Homo sapiens Genome sequencing
+SRS1111153	8510.65	Homo sapiens Genome sequencing
+SRS1111155	6057.68	Homo sapiens Genome sequencing
+SRS1111156	10280.5	Homo sapiens Genome sequencing
+SRS1111157	5825.95	Homo sapiens Genome sequencing
+SRS1111158	6791	Homo sapiens Genome sequencing
+SRS1111159	5387.31	Homo sapiens Genome sequencing
+SRS1111162	4900.63	Homo sapiens Genome sequencing
+SRS1111160	5744.14	Homo sapiens Genome sequencing
+SRS1111161	5338.13	Homo sapiens Genome sequencing
+SRS1111163	9055.76	Homo sapiens Genome sequencing
+SRS1111164	6490.44	Homo sapiens Genome sequencing
+SRS1111165	8561.58	Homo sapiens Genome sequencing
+SRS1111166	5658.25	Homo sapiens Genome sequencing
+SRS1111167	5853.43	Homo sapiens Genome sequencing
+SRS1111125	4948.46	Homo sapiens Genome sequencing
+SRS1111124	5147.55	Homo sapiens Genome sequencing
+SRS1111126	4865.12	Homo sapiens Genome sequencing
+SRS1111128	5700.33	Homo sapiens Genome sequencing
+SRS1111127	5285.17	Homo sapiens Genome sequencing
+SRS1111129	4540.14	Homo sapiens Genome sequencing
+SRS1111130	4595.87	Homo sapiens Genome sequencing
+SRS1111131	10158.57	Homo sapiens Genome sequencing
+SRS1111132	5223.55	Homo sapiens Genome sequencing
+SRS1111133	8378.89	Homo sapiens Genome sequencing
+SRS1111134	8318.28	Homo sapiens Genome sequencing
+SRS1111135	7586.04	Homo sapiens Genome sequencing
+SRS1111136	8435.64	Homo sapiens Genome sequencing
+SRS1111137	8190.92	Homo sapiens Genome sequencing
+SRS1111138	8203.83	Homo sapiens Genome sequencing
+SRS1111139	11613.3	Homo sapiens Genome sequencing
+SRS1111140	7512.6	Homo sapiens Genome sequencing
+SRS1111141	6973.99	Homo sapiens Genome sequencing
+SRS1111142	12906.87	Homo sapiens Genome sequencing
+SRS1111112	6972.99	Homo sapiens Genome sequencing
+SRS1111113	8343.49	Homo sapiens Genome sequencing
+SRS1111114	8680.65	Homo sapiens Genome sequencing
+SRS1111115	8581.53	Homo sapiens Genome sequencing
+SRS1111117	7457.52	Homo sapiens Genome sequencing
+SRS1111116	8638.76	Homo sapiens Genome sequencing
+SRS1111118	7841.23	Homo sapiens Genome sequencing
+SRS1111121	8339.07	Homo sapiens Genome sequencing
+SRS1111120	9095.03	Homo sapiens Genome sequencing
+SRS1111119	8281.77	Homo sapiens Genome sequencing
+SRS1111123	7476.38	Homo sapiens Genome sequencing
+SRS1111122	8203.07	Homo sapiens Genome sequencing
+SRS1091755	2258.81	Analysis of ctDNA of the cerebrospinal fluid
+SRS1091756	2840.37	Analysis of ctDNA of the cerebrospinal fluid
+SRS1082364	2660.67	Analysis of ctDNA of the cerebrospinal fluid
+SRS1082366	2894.76	Analysis of ctDNA of the cerebrospinal fluid
+SRS747665	1871.05	Analysis of ctDNA of the cerebrospinal fluid
+SRS747581	543.34	Analysis of ctDNA of the cerebrospinal fluid
+SRS747578	1787.54	Analysis of ctDNA of the cerebrospinal fluid
+SRS747430	1717.44	Analysis of ctDNA of the cerebrospinal fluid
+SRS746158	834.3	Analysis of ctDNA of the cerebrospinal fluid
+SRS1046041	6047.89	Prostate intraepithelial neoplasia genome sequencing
+SRS1046040	5717.52	Prostate intraepithelial neoplasia genome sequencing
+SRS1046035	6946.4	Prostate intraepithelial neoplasia genome sequencing
+SRS1046034	6533.82	Prostate intraepithelial neoplasia genome sequencing
+SRS1046028	6131.03	Prostate intraepithelial neoplasia genome sequencing
+SRS1046027	8119	Prostate intraepithelial neoplasia genome sequencing
+SRS1046022	5103.28	Prostate intraepithelial neoplasia genome sequencing
+SRS1046011	6490.45	Prostate intraepithelial neoplasia genome sequencing
+SRS1046005	7546.33	Prostate intraepithelial neoplasia genome sequencing
+SRS1046003	7707.24	Prostate intraepithelial neoplasia genome sequencing
+SRS978310	12667.06	Homo sapiens Exome
+SRS978320	11112.07	Homo sapiens Exome
+SRS978321	14657.99	Homo sapiens Exome
+SRS963195	5636.28	Whole exome sequencing on metastatic experimental model systems
+SRS963193	4470.2	Whole exome sequencing on metastatic experimental model systems
+SRS963192	4553.21	Whole exome sequencing on metastatic experimental model systems
+SRS963191	8118.85	Whole exome sequencing on metastatic experimental model systems
+SRS963190	4455.28	Whole exome sequencing on metastatic experimental model systems
+SRS963189	3336.06	Whole exome sequencing on metastatic experimental model systems
+SRS963185	3509.97	Whole exome sequencing on metastatic experimental model systems
+SRS963182	4412.42	Whole exome sequencing on metastatic experimental model systems
+SRS963179	4547.33	Whole exome sequencing on metastatic experimental model systems
+SRS963149	4765.3	Whole exome sequencing on metastatic experimental model systems
+SRS963148	3595.75	Whole exome sequencing on metastatic experimental model systems
+SRS963147	4695.01	Whole exome sequencing on metastatic experimental model systems
+SRS963132	3957.47	Whole exome sequencing on metastatic experimental model systems
+SRS962029	5342.02	Whole exome sequencing on metastatic experimental model systems
+SRS960905	3914.85	Whole exome sequencing on metastatic experimental model systems
+SRS936263	840.48	Homo sapiens Exome
+SRS839123	1978.76	Homo sapiens Exome
+SRS839099	6711.3	Homo sapiens Exome
+SRS839084	5675.79	Homo sapiens Exome
+SRS836764	2184.47	Homo sapiens Exome
+SRS832516	1830.13	Exome sequencing of cylindroma of the breast
+SRS829898	9821.69	Whole-genome sequencing of glioblastoma nuclei
+SRS829893	6614.18	Whole-genome sequencing of glioblastoma nuclei
+SRS823750	7430.7	Whole-genome sequencing of glioblastoma nuclei
+SRS829901	7898.69	Whole-genome sequencing of glioblastoma nuclei
+SRS738750	5539.89	Colorectal adenomas contain multiple somatic mutations that do not coincide with contiguous adenocarcinoma specimens
+SRS747774	1466.16	Analysis of ctDNA of the cerebrospinal fluid
+SRS747773	1099.67	Analysis of ctDNA of the cerebrospinal fluid
+SRS747772	1638.23	Analysis of ctDNA of the cerebrospinal fluid
+SRS747716	1347.11	Analysis of ctDNA of the cerebrospinal fluid
+SRS747715	1086.38	Analysis of ctDNA of the cerebrospinal fluid
+SRS747714	1486.51	Analysis of ctDNA of the cerebrospinal fluid
+SRS747713	1280.05	Analysis of ctDNA of the cerebrospinal fluid
+SRS747712	1374.64	Analysis of ctDNA of the cerebrospinal fluid
+SRS747711	2430.11	Analysis of ctDNA of the cerebrospinal fluid
+SRS747710	2027.32	Analysis of ctDNA of the cerebrospinal fluid
+SRS747709	1591.4	Analysis of ctDNA of the cerebrospinal fluid
+SRS747708	1553.43	Analysis of ctDNA of the cerebrospinal fluid
+SRS747703	1544.42	Analysis of ctDNA of the cerebrospinal fluid
+SRS747702	1730.14	Analysis of ctDNA of the cerebrospinal fluid
+SRS747701	1575.88	Analysis of ctDNA of the cerebrospinal fluid
+SRS747700	1716.41	Analysis of ctDNA of the cerebrospinal fluid
+SRS747667	1160.31	Analysis of ctDNA of the cerebrospinal fluid
+SRS747666	1845.18	Analysis of ctDNA of the cerebrospinal fluid
+SRS747665	1611.97	Analysis of ctDNA of the cerebrospinal fluid
+SRS747664	1280.67	Analysis of ctDNA of the cerebrospinal fluid
+SRS747661	1270.5	Analysis of ctDNA of the cerebrospinal fluid
+SRS747660	1263.61	Analysis of ctDNA of the cerebrospinal fluid
+SRS747659	1258.83	Analysis of ctDNA of the cerebrospinal fluid
+SRS747658	1188.63	Analysis of ctDNA of the cerebrospinal fluid
+SRS747657	1091.89	Analysis of ctDNA of the cerebrospinal fluid
+SRS747590	1336.71	Analysis of ctDNA of the cerebrospinal fluid
+SRS747589	1391.78	Analysis of ctDNA of the cerebrospinal fluid
+SRS747586	1257.86	Analysis of ctDNA of the cerebrospinal fluid
+SRS747584	1324.58	Analysis of ctDNA of the cerebrospinal fluid
+SRS747582	1544.21	Analysis of ctDNA of the cerebrospinal fluid
+SRS747581	1274.08	Analysis of ctDNA of the cerebrospinal fluid
+SRS747579	1516.02	Analysis of ctDNA of the cerebrospinal fluid
+SRS747578	1812.25	Analysis of ctDNA of the cerebrospinal fluid
+SRS747577	1112.28	Analysis of ctDNA of the cerebrospinal fluid
+SRS747568	1669.67	Analysis of ctDNA of the cerebrospinal fluid
+SRS747566	1559.44	Analysis of ctDNA of the cerebrospinal fluid
+SRS747437	1400.63	Analysis of ctDNA of the cerebrospinal fluid
+SRS747430	1534.35	Analysis of ctDNA of the cerebrospinal fluid
+SRS746158	1371.56	Analysis of ctDNA of the cerebrospinal fluid
+SRS747774	814.62	Analysis of ctDNA of the cerebrospinal fluid
+SRS747773	1055.94	Analysis of ctDNA of the cerebrospinal fluid
+SRS747772	1267.52	Analysis of ctDNA of the cerebrospinal fluid
+SRS747716	1171.01	Analysis of ctDNA of the cerebrospinal fluid
+SRS747715	728.27	Analysis of ctDNA of the cerebrospinal fluid
+SRS747714	1268.22	Analysis of ctDNA of the cerebrospinal fluid
+SRS747713	1026.36	Analysis of ctDNA of the cerebrospinal fluid
+SRS747712	1011.44	Analysis of ctDNA of the cerebrospinal fluid
+SRS747711	1743.67	Analysis of ctDNA of the cerebrospinal fluid
+SRS747710	888.5	Analysis of ctDNA of the cerebrospinal fluid
+SRS747709	1099.23	Analysis of ctDNA of the cerebrospinal fluid
+SRS747708	949.42	Analysis of ctDNA of the cerebrospinal fluid
+SRS747703	1123.01	Analysis of ctDNA of the cerebrospinal fluid
+SRS747702	1300.1	Analysis of ctDNA of the cerebrospinal fluid
+SRS747701	1082.7	Analysis of ctDNA of the cerebrospinal fluid
+SRS747700	1232.22	Analysis of ctDNA of the cerebrospinal fluid
+SRS747667	844.91	Analysis of ctDNA of the cerebrospinal fluid
+SRS747666	1129.58	Analysis of ctDNA of the cerebrospinal fluid
+SRS747665	686.27	Analysis of ctDNA of the cerebrospinal fluid
+SRS747664	990.12	Analysis of ctDNA of the cerebrospinal fluid
+SRS747661	1282.59	Analysis of ctDNA of the cerebrospinal fluid
+SRS747660	1145.92	Analysis of ctDNA of the cerebrospinal fluid
+SRS747659	981.9	Analysis of ctDNA of the cerebrospinal fluid
+SRS747658	897.83	Analysis of ctDNA of the cerebrospinal fluid
+SRS747657	1116.72	Analysis of ctDNA of the cerebrospinal fluid
+SRS747590	979.36	Analysis of ctDNA of the cerebrospinal fluid
+SRS747589	1051.85	Analysis of ctDNA of the cerebrospinal fluid
+SRS747586	1255.06	Analysis of ctDNA of the cerebrospinal fluid
+SRS747584	1099.31	Analysis of ctDNA of the cerebrospinal fluid
+SRS747582	1043.07	Analysis of ctDNA of the cerebrospinal fluid
+SRS747581	1184.85	Analysis of ctDNA of the cerebrospinal fluid
+SRS747579	1255.87	Analysis of ctDNA of the cerebrospinal fluid
+SRS747578	749.18	Analysis of ctDNA of the cerebrospinal fluid
+SRS747577	805.73	Analysis of ctDNA of the cerebrospinal fluid
+SRS747568	999	Analysis of ctDNA of the cerebrospinal fluid
+SRS747566	950.5	Analysis of ctDNA of the cerebrospinal fluid
+SRS747437	906.1	Analysis of ctDNA of the cerebrospinal fluid
+SRS747430	865.51	Analysis of ctDNA of the cerebrospinal fluid
+SRS746158	961.51	Analysis of ctDNA of the cerebrospinal fluid
+SRS741984	1023.32	Analysis of ctDNA of the cerebrospinal fluid
+SRS741984	1869.99	Analysis of ctDNA of the cerebrospinal fluid
+SRS738752	5477.31	Colorectal adenomas contain multiple somatic mutations that do not coincide with contiguous adenocarcinoma specimens
+SRS738751	5410.29	Colorectal adenomas contain multiple somatic mutations that do not coincide with contiguous adenocarcinoma specimens
+SRS738749	12991.65	Colorectal adenomas contain multiple somatic mutations that do not coincide with contiguous adenocarcinoma specimens
+SRS738748	5075.67	Colorectal adenomas contain multiple somatic mutations that do not coincide with contiguous adenocarcinoma specimens
+SRS738747	5306.05	Colorectal adenomas contain multiple somatic mutations that do not coincide with contiguous adenocarcinoma specimens
+SRS738745	5108.76	Colorectal adenomas contain multiple somatic mutations that do not coincide with contiguous adenocarcinoma specimens
+SRS738743	10471.3	Colorectal adenomas contain multiple somatic mutations that do not coincide with contiguous adenocarcinoma specimens
+ERS368291	3220.18	Exome sequencing of GBM neurospheres before and after TMZ treatment and post treatment recovery in vitro.
+ERS368290	3770.07	Exome sequencing of GBM neurospheres before and after TMZ treatment and post treatment recovery in vitro.
+ERS368289	3510.93	Exome sequencing of GBM neurospheres before and after TMZ treatment and post treatment recovery in vitro.
+ERS368288	3209.2	Exome sequencing of GBM neurospheres before and after TMZ treatment and post treatment recovery in vitro.
+ERS368287	3055.84	Exome sequencing of GBM neurospheres before and after TMZ treatment and post treatment recovery in vitro.
+ERS368286	3769.63	Exome sequencing of GBM neurospheres before and after TMZ treatment and post treatment recovery in vitro.
+ERS347412	1699.65	Identification of genomic variants associated with Uveal Melanoma by exome sequencing of a patient and controls
+ERS347411	3709.26	Identification of genomic variants associated with Uveal Melanoma by exome sequencing of a patient and controls
+ERS347410	3943.48	Identification of genomic variants associated with Uveal Melanoma by exome sequencing of a patient and controls
+ERS347409	2921.41	Identification of genomic variants associated with Uveal Melanoma by exome sequencing of a patient and controls
+ERS347408	2904.4	Identification of genomic variants associated with Uveal Melanoma by exome sequencing of a patient and controls
+ERS347407	2835.24	Identification of genomic variants associated with Uveal Melanoma by exome sequencing of a patient and controls
+SRS623635	7255.05	Homo sapiens Targeted Locus (Loci)
+SRS623634	8027.26	Homo sapiens Targeted Locus (Loci)
+SRS623633	9326.82	Homo sapiens Targeted Locus (Loci)
+SRS623632	5502.04	Homo sapiens Targeted Locus (Loci)
+SRS623631	3865.88	Homo sapiens Targeted Locus (Loci)
+SRS623630	7831.25	Homo sapiens Targeted Locus (Loci)
+SRS623629	7324.39	Homo sapiens Targeted Locus (Loci)
+SRS623628	6766.74	Homo sapiens Targeted Locus (Loci)
+SRS623627	5897.59	Homo sapiens Targeted Locus (Loci)
+SRS623626	9307.02	Homo sapiens Targeted Locus (Loci)
+SRS623625	6490.34	Homo sapiens Targeted Locus (Loci)
+SRS589899	4024.61	Colorectal adenomas contain multiple somatic mutations that do not coincide with contiguous adenocarcinoma specimens
+SRS589892	3288.84	Colorectal adenomas contain multiple somatic mutations that do not coincide with contiguous adenocarcinoma specimens
+SRS589889	4314.93	Colorectal adenomas contain multiple somatic mutations that do not coincide with contiguous adenocarcinoma specimens
+SRS589890	2954.92	Colorectal adenomas contain multiple somatic mutations that do not coincide with contiguous adenocarcinoma specimens
+SRS589888	4382.88	Colorectal adenomas contain multiple somatic mutations that do not coincide with contiguous adenocarcinoma specimens
+SRS589887	3467.25	Colorectal adenomas contain multiple somatic mutations that do not coincide with contiguous adenocarcinoma specimens
+SRS589884	4741.47	Colorectal adenomas contain multiple somatic mutations that do not coincide with contiguous adenocarcinoma specimens
+SRS589883	5635.81	Colorectal adenomas contain multiple somatic mutations that do not coincide with contiguous adenocarcinoma specimens
+SRS582933	4038.81	Colorectal adenomas contain multiple somatic mutations that do not coincide with contiguous adenocarcinoma specimens
+SRS541784	3431.41	Homo sapiens Exome
+SRS541767	3114.29	Homo sapiens Exome
+SRS541788	3316.71	Homo sapiens Exome
+SRS541778	3439.73	Homo sapiens Exome
+SRS541773	3064.69	Homo sapiens Exome
+SRS540562	2573.67	Homo sapiens Exome
+SRS540560	3174.2	Homo sapiens Exome
+SRS540558	3393.56	Homo sapiens Exome
+SRS540557	3002.71	Homo sapiens Exome
+SRS540556	3162.57	Homo sapiens Exome
+SRS540555	2916	Homo sapiens Exome
+SRS540554	3225.64	Homo sapiens Exome
+SRS540553	4873.79	Homo sapiens Exome
+SRS540552	4284.73	Homo sapiens Exome
+SRS540551	4072.2	Homo sapiens Exome
+SRS540550	3577.8	Homo sapiens Exome
+SRS540549	3666.92	Homo sapiens Exome
+SRS540548	3735.32	Homo sapiens Exome
+SRS540691	2189.38	Homo sapiens Exome
+SRS540690	2606.85	Homo sapiens Exome
+SRS540689	2461.5	Homo sapiens Exome
+SRS540688	2797.9	Homo sapiens Exome
+SRS540687	2253.97	Homo sapiens Exome
+SRS540686	2792.94	Homo sapiens Exome
+SRS540685	4685.71	Homo sapiens Exome
+SRS540684	4476.09	Homo sapiens Exome
+SRS540682	2396.41	Homo sapiens Exome
+SRS540681	2480.95	Homo sapiens Exome
+SRS540680	4650.07	Homo sapiens Exome
+SRS540679	4735.7	Homo sapiens Exome
+SRS540678	3414.09	Homo sapiens Exome
+SRS540677	4194.54	Homo sapiens Exome
+SRS540676	3189.1	Homo sapiens Exome
+SRS540675	4452.87	Homo sapiens Exome
+SRS540673	3406.99	Homo sapiens Exome
+SRS540674	3756.83	Homo sapiens Exome
+SRS540672	2966.71	Homo sapiens Exome
+SRS540670	3084.42	Homo sapiens Exome
+SRS540669	4066.75	Homo sapiens Exome
+SRS540668	4867.37	Homo sapiens Exome
+SRS540667	3370.57	Homo sapiens Exome
+SRS540666	3640.94	Homo sapiens Exome
+SRS540664	3985.45	Homo sapiens Exome
+SRS540663	4110.33	Homo sapiens Exome
+SRS540662	3724.3	Homo sapiens Exome
+SRS540661	3288.77	Homo sapiens Exome
+SRS540659	2909.7	Homo sapiens Exome
+SRS540658	2936.46	Homo sapiens Exome
+SRS540657	3683.51	Homo sapiens Exome
+SRS540656	3421.21	Homo sapiens Exome
+SRS540655	3545.3	Homo sapiens Exome
+SRS540654	2944.09	Homo sapiens Exome
+SRS540653	5526.69	Homo sapiens Exome
+SRS540652	3079.63	Homo sapiens Exome
+SRS540649	3239.58	Homo sapiens Exome
+SRS540650	3824.28	Homo sapiens Exome
+SRS540647	4003.54	Homo sapiens Exome
+SRS540648	3930.86	Homo sapiens Exome
+SRS540646	3737.79	Homo sapiens Exome
+SRS540645	2820.04	Homo sapiens Exome
+SRS540644	2177.69	Homo sapiens Exome
+SRS540643	3954.18	Homo sapiens Exome
+SRS540642	3813.61	Homo sapiens Exome
+SRS540641	3981.59	Homo sapiens Exome
+SRS540640	4805	Homo sapiens Exome
+SRS540639	3840.32	Homo sapiens Exome
+SRS540638	3810.76	Homo sapiens Exome
+SRS540637	6096.46	Homo sapiens Exome
+SRS540636	3908.49	Homo sapiens Exome
+SRS540635	4237.23	Homo sapiens Exome
+SRS540634	4337.98	Homo sapiens Exome
+SRS540633	3415.12	Homo sapiens Exome
+SRS540632	2730.05	Homo sapiens Exome
+SRS540630	3142.34	Homo sapiens Exome
+SRS540629	2617.91	Homo sapiens Exome
+SRS540628	3977.03	Homo sapiens Exome
+SRS540627	2653.83	Homo sapiens Exome
+SRS540626	3673.68	Homo sapiens Exome
+SRS540624	3813.41	Homo sapiens Exome
+SRS540623	3675.86	Homo sapiens Exome
+SRS540622	3205.81	Homo sapiens Exome
+SRS540621	3785.75	Homo sapiens Exome
+SRS540619	4244.79	Homo sapiens Exome
+SRS540618	3995.56	Homo sapiens Exome
+SRS540617	4207.53	Homo sapiens Exome
+SRS540616	3412.64	Homo sapiens Exome
+SRS540615	2396.44	Homo sapiens Exome
+SRS540613	2547.77	Homo sapiens Exome
+SRS540612	4673.23	Homo sapiens Exome
+SRS540611	3729.57	Homo sapiens Exome
+SRS540610	3103.39	Homo sapiens Exome
+SRS540608	3105.22	Homo sapiens Exome
+SRS540607	2682.22	Homo sapiens Exome
+SRS540606	3236.29	Homo sapiens Exome
+SRS540605	3540.25	Homo sapiens Exome
+SRS540604	3700.86	Homo sapiens Exome
+SRS540585	3407.57	Homo sapiens Exome
+SRS540584	3788.29	Homo sapiens Exome
+SRS540583	5320.26	Homo sapiens Exome
+SRS540582	3786.42	Homo sapiens Exome
+SRS540581	2683	Homo sapiens Exome
+SRS540580	2728.92	Homo sapiens Exome
+SRS540579	3197.72	Homo sapiens Exome
+SRS540578	3495.41	Homo sapiens Exome
+SRS540577	4062.85	Homo sapiens Exome
+SRS540576	3636.59	Homo sapiens Exome
+SRS540574	3915.76	Homo sapiens Exome
+SRS540573	4046.42	Homo sapiens Exome
+SRS540572	4092.62	Homo sapiens Exome
+SRS540571	3709.94	Homo sapiens Exome
+SRS540570	3281.98	Homo sapiens Exome
+SRS540569	3368.23	Homo sapiens Exome
+SRS540567	3757.41	Homo sapiens Exome
+SRS540566	4988.84	Homo sapiens Exome
+SRS540565	3076.3	Homo sapiens Exome
+SRS540564	3043.12	Homo sapiens Exome
+SRS540561	2421.63	Homo sapiens Exome
+SRS512037	2274.19	Homo sapiens Exome
+SRS512036	2377.07	Homo sapiens Exome
+SRS512035	2337.77	Homo sapiens Exome
+SRS512034	2300.48	Homo sapiens Exome
+SRS512033	2419.22	Homo sapiens Exome
+SRS512032	2306.23	Homo sapiens Exome
+SRS512031	3214.15	Homo sapiens Exome
+SRS512030	3421.79	Homo sapiens Exome
+SRS512029	3318.74	Homo sapiens Exome
+SRS510030	3530.48	Homo sapiens Exome
+SRS510031	3018.84	Homo sapiens Exome
+SRS510032	3573.92	Homo sapiens Exome
+SRS510033	3861.87	Homo sapiens Exome
+SRS512028	3341.75	Homo sapiens Exome
+SRS512027	2690.07	Homo sapiens Exome
+SRS512026	2573.79	Homo sapiens Exome
+SRS512025	4264.59	Homo sapiens Exome
+SRS512024	2910.91	Homo sapiens Exome
+SRS512023	3352.44	Homo sapiens Exome
+SRS512022	3358.71	Homo sapiens Exome
+SRS512021	2562.16	Homo sapiens Exome
+SRS512020	2186.78	Homo sapiens Exome
+SRS512019	3130.7	Homo sapiens Exome
+SRS512018	3693.09	Homo sapiens Exome
+SRS512017	2466.41	Homo sapiens Exome
+SRS512016	2594.65	Homo sapiens Exome
+SRS512015	2362.07	Homo sapiens Exome
+SRS512014	2261.01	Homo sapiens Exome
+SRS512013	2411.71	Homo sapiens Exome
+SRS512012	2368.94	Homo sapiens Exome
+SRS512011	5142.37	Homo sapiens Exome
+SRS512010	2173.85	Homo sapiens Exome
+SRS512009	1911.17	Homo sapiens Exome
+SRS512008	6353.96	Homo sapiens Exome
+SRS512007	7124.38	Homo sapiens Exome
+SRS512006	3467.06	Homo sapiens Exome
+SRS512005	4250.05	Homo sapiens Exome
+SRS512004	4563.68	Homo sapiens Exome
+SRS506327	2890.56	Homo sapiens Exome
+SRS506326	3705.73	Homo sapiens Exome
+SRS506325	2912.86	Homo sapiens Exome
+SRS506324	3873.59	Homo sapiens Exome
+SRS506323	3309.98	Homo sapiens Exome
+SRS506322	3528.43	Homo sapiens Exome
+SRS506321	2841.15	Homo sapiens Exome
+SRS506320	8529.52	Homo sapiens Exome
+SRS506319	3008.12	Homo sapiens Exome
+SRS506318	3306.75	Homo sapiens Exome
+SRS506317	5221.73	Homo sapiens Exome
+SRS506316	4971.23	Homo sapiens Exome
+SRS506315	3869.79	Homo sapiens Exome
+SRS506314	3246.35	Homo sapiens Exome
+SRS506313	8345.52	Homo sapiens Exome
+SRS506276	2376.92	Homo sapiens Exome
+SRS506275	2711.02	Homo sapiens Exome
+SRS506274	3323.67	Homo sapiens Exome
+SRS506273	3466.18	Homo sapiens Exome
+SRS506272	3623.28	Homo sapiens Exome
+SRS506271	4158.12	Homo sapiens Exome
+SRS506270	3064.25	Homo sapiens Exome
+SRS506247	2914.34	Homo sapiens Exome
+SRS506091	3586.58	Homo sapiens Exome
+SRS506090	2278.82	Homo sapiens Exome
+SRS506088	3923.44	Homo sapiens Exome
+SRS506086	3825.62	Homo sapiens Exome
+SRS504803	9367.76	Homo sapiens Exome
+SRS504802	2871.33	Homo sapiens Exome
+SRS504799	4041.94	Homo sapiens Exome
+ERS219027	370.02	ZFN_TALEN_validation_in_human_iPS_cells
+ERS219026	372.78	ZFN_TALEN_validation_in_human_iPS_cells
+ERS219025	312.81	ZFN_TALEN_validation_in_human_iPS_cells
+ERS219024	366.22	ZFN_TALEN_validation_in_human_iPS_cells
+ERS219023	347.99	ZFN_TALEN_validation_in_human_iPS_cells
+ERS219022	354.31	ZFN_TALEN_validation_in_human_iPS_cells
+SRS466106	1712.76	Homo sapiens Exome
+SRS466104	1328.54	Homo sapiens Exome
+SRS466103	1437.71	Homo sapiens Exome
+SRS466102	1472.85	Homo sapiens Exome
+SRS466101	1380.17	Homo sapiens Exome
+SRS466098	1478.77	Homo sapiens Exome
+SRS466097	1382.49	Homo sapiens Exome
+SRS466096	1388.13	Homo sapiens Exome
+SRS466095	1747.51	Homo sapiens Exome
+SRS466094	1792.49	Homo sapiens Exome
+SRS466093	1429.8	Homo sapiens Exome
+SRS466092	2088.03	Homo sapiens Exome
+SRS466091	1386.87	Homo sapiens Exome
+SRS466090	1539.92	Homo sapiens Exome
+SRS466088	1487.76	Homo sapiens Exome
+SRS466089	1385.66	Homo sapiens Exome
+SRS466087	1563.09	Homo sapiens Exome
+SRS466085	1638.49	Homo sapiens Exome
+SRS466086	1636.5	Homo sapiens Exome
+SRS466083	1557.81	Homo sapiens Exome
+SRS466082	1879.96	Homo sapiens Exome
+SRS466081	1483.56	Homo sapiens Exome
+SRS466080	1621.96	Homo sapiens Exome
+SRS466079	1889.17	Homo sapiens Exome
+SRS466078	1565.36	Homo sapiens Exome
+SRS466077	1537.02	Homo sapiens Exome
+SRS465651	2176.88	Homo sapiens Exome
+SRS465645	1421.77	Homo sapiens Exome
+SRS465634	1552.96	Homo sapiens Exome
+SRS465583	1534.58	Homo sapiens Exome
+SRS455078	4515.25	Homo sapiens Exome
+SRS455082	4628.64	Homo sapiens Exome
+SRS455081	6399.22	Homo sapiens Exome
+SRS455080	6850.31	Homo sapiens Exome
+SRS455079	4784.97	Homo sapiens Exome
+SRS455077	4375.88	Homo sapiens Exome
+SRS455076	5124.14	Homo sapiens Exome
+SRS452538	82.07	Homo sapiens Targeted Locus (Loci)
+SRS452537	55.71	Homo sapiens Targeted Locus (Loci)
+SRS452536	39.51	Homo sapiens Targeted Locus (Loci)
+SRS452535	59.85	Homo sapiens Targeted Locus (Loci)
+SRS452534	73.18	Homo sapiens Targeted Locus (Loci)
+SRS452533	98.12	Homo sapiens Targeted Locus (Loci)
+SRS452532	84.97	Homo sapiens Targeted Locus (Loci)
+SRS452519	90.14	Homo sapiens Targeted Locus (Loci)
+SRS452518	6.71	Homo sapiens Targeted Locus (Loci)
+SRS452517	25.11	Homo sapiens Targeted Locus (Loci)
+SRS452516	18.89	Homo sapiens Targeted Locus (Loci)
+SRS452513	13.34	Homo sapiens Targeted Locus (Loci)
+SRS452512	7.33	Homo sapiens Targeted Locus (Loci)
+SRS452511	39.53	Homo sapiens Targeted Locus (Loci)
+SRS452510	14.35	Homo sapiens Targeted Locus (Loci)
+SRS444477	3756.41	Homo sapiens strain:Intrahepatic cholangiocarcinoma Exome
+SRS444469	7257.42	Homo sapiens strain:Intrahepatic cholangiocarcinoma Exome
+SRS444464	4976.9	Homo sapiens strain:Intrahepatic cholangiocarcinoma Exome
+SRS444462	6664.26	Homo sapiens strain:Intrahepatic cholangiocarcinoma Exome
+SRS444459	3347.43	Homo sapiens strain:Intrahepatic cholangiocarcinoma Exome
+SRS444457	7135.17	Homo sapiens strain:Intrahepatic cholangiocarcinoma Exome
+SRS440577	4765.42	Homo sapiens strain:Intrahepatic cholangiocarcinoma Exome
+SRS440576	7344.72	Homo sapiens strain:Intrahepatic cholangiocarcinoma Exome
+SRS440574	6516.5	Homo sapiens strain:Intrahepatic cholangiocarcinoma Exome
+SRS440573	7988.01	Homo sapiens strain:Intrahepatic cholangiocarcinoma Exome
+SRS440572	3910.52	Homo sapiens strain:Intrahepatic cholangiocarcinoma Exome
+SRS440555	3550.79	Homo sapiens strain:Intrahepatic cholangiocarcinoma Exome
+SRS440554	3480.88	Homo sapiens strain:Intrahepatic cholangiocarcinoma Exome
+SRS439183	6137.43	Homo sapiens strain:Intrahepatic cholangiocarcinoma Exome
+ERS197230	6622.92	Whole Exome Sequencing of Papillary Type 2 Renal Cell Carcinoma and matched normal kidney tissue reveals NRF2 activation
+ERS197230	6318.31	Whole Exome Sequencing of Papillary Type 2 Renal Cell Carcinoma and matched normal kidney tissue reveals NRF2 activation
+ERS197229	5142.79	Whole Exome Sequencing of Papillary Type 2 Renal Cell Carcinoma and matched normal kidney tissue reveals NRF2 activation
+ERS197229	5681.01	Whole Exome Sequencing of Papillary Type 2 Renal Cell Carcinoma and matched normal kidney tissue reveals NRF2 activation
+ERS197228	8485.34	Whole Exome Sequencing of Papillary Type 2 Renal Cell Carcinoma and matched normal kidney tissue reveals NRF2 activation
+ERS197228	6501.19	Whole Exome Sequencing of Papillary Type 2 Renal Cell Carcinoma and matched normal kidney tissue reveals NRF2 activation
+ERS197227	5483.74	Whole Exome Sequencing of Papillary Type 2 Renal Cell Carcinoma and matched normal kidney tissue reveals NRF2 activation
+ERS197227	7156.75	Whole Exome Sequencing of Papillary Type 2 Renal Cell Carcinoma and matched normal kidney tissue reveals NRF2 activation
+ERS197226	8912.02	Whole Exome Sequencing of Papillary Type 2 Renal Cell Carcinoma and matched normal kidney tissue reveals NRF2 activation
+ERS197226	4267.85	Whole Exome Sequencing of Papillary Type 2 Renal Cell Carcinoma and matched normal kidney tissue reveals NRF2 activation
