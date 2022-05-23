@@ -14,7 +14,7 @@
 
     2.  Usage
 
-        `perl table-to-formatted-spreadsheet.pl <input table delimited file> <output directory <output file prefix>`
+        `perl table-to-spreadsheet.pl <input table delimited file> <output directory <output file prefix>`
 
     Input
 
