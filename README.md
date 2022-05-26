@@ -2,9 +2,9 @@
 
 ### Custom Perl based utilities
 
-1.  Table to spreadsheet (xlsx)
+1.  Apply rich text formatting into a spreadsheet (xlsx)
 
-    Create an excel spreadsheet by applying custom text formatting to specific columns of a tab-delimited file.
+    Create an excel spreadsheet with data from a tab-delimited text file and apply custom text formatting to specified columns.
 
     Using the 'text color' and 'underline' properties, highlight a specific sub string.
 
@@ -18,8 +18,8 @@
 
     Input
 
-      ![](images/paste-A103BA26.png)
+    ![](images/paste-A103BA26.png)
 
     Output
 
-      ![](images/paste-FEC961A6.png)
+    ![](images/paste-FEC961A6.png)
