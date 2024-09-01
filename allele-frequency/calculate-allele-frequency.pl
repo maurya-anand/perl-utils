@@ -1,6 +1,6 @@
 #!/usr/bin/env perl
 
-# usage: perl calculate-allele-frequency.pl example/genotypes.vcf > allele_frequencies.tsv
+# usage: perl calculate-allele-frequency.pl example/genotypes.vcf > example/allele_frequencies.tsv
 # script to calculate allele frequency from a multi sample VCF file
 
 use strict;
