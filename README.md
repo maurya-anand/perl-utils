@@ -31,7 +31,7 @@ Using the 'text color' and 'underline' properties, highlight a specific sub stri
 1. Usage
 
     ```bash
-     perl calculate-allele-frequency.pl <inut vcf file> > <output file>
+    perl calculate-allele-frequency.pl <inut vcf file> > <output file>
     ```
 
     Output
