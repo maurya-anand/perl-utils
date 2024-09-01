@@ -1,6 +1,6 @@
 # perl-utils
 
-### Custom Perl based utilities
+## Custom Perl based utilities
 
 ### 1. Apply Rich Text Formatting to a Spreadsheet (xlsx)
 
