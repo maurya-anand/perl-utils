@@ -32,18 +32,18 @@ while (my $row=<VCF>) {
 			$totalGTcount++;
 		}
 		}
-	if ($totalGTcount> 0){
-        my $ref_allele_count   = (2 * $homRefGTCount) + $totalHetGTCount;
-        my $alt_allele_count   = (2 * $homAltGTCount) + $totalHetGTCount;
-        my $total_allele_count = 2 * $totalGTcount;	
+	if ($totalGTcount> 0) {
+		my $ref_allele_count   = (2 * $homRefGTCount) + $totalHetGTCount;
+    	my $alt_allele_count   = (2 * $homAltGTCount) + $totalHetGTCount;
+    	my $total_allele_count = 2 * $totalGTcount;
 		my $refAllelefreq= ((2*$homRefGTCount)+$totalHetGTCount)/(2*$totalGTcount);
 		my $altAllelefreq= ((2*$homAltGTCount)+$totalHetGTCount)/(2*$totalGTcount);		
 		if ($refAllelefreq < $altAllelefreq) {
-            $minorAlleleFreq = $refAllelefreq;
-            $minorAllele = $ref;
-        } else {
-            $minorAlleleFreq = $altAllelefreq;
-            $minorAllele = $alt;
+			$minorAlleleFreq = $refAllelefreq;
+			$minorAllele = $ref;
+		} else {
+			$minorAlleleFreq = $altAllelefreq;
+			$minorAllele = $alt;
         }
 		print "$chr\t$pos\t$ref\t$alt\t$altAllelefreq\t$minorAllele\t$minorAlleleFreq\t$totalGTcount\t$totalHetGTCount\t$homAltGTCount\t$homRefGTCount\n";
 	}
