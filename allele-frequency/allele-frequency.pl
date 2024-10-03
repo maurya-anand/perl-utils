@@ -1,7 +1,7 @@
 #!/usr/bin/env perl
 
 # script to calculate allele frequency from a multi sample VCF file
-# usage: perl calculate-allele-frequency.pl --vcf example/genotypes.vcf --out example/allele_frequencies.tsv
+# usage: perl allele-frequency.pl --vcf example/genotypes.vcf [--out example/allele_frequencies.tsv]
 
 use strict;
 use warnings;
@@ -10,12 +10,17 @@ my ($inpVCF, $outFile);
 GetOptions(
 	'vcf=s' => \$inpVCF,
 	'out=s' => \$outFile,
-) or die "Usage: $0 --vcf VCF_FILE --out OUTPUT_FILE\n";
-if (!defined $inpVCF | !defined $outFile) {
-	die "Please provide both the VCF and output files.\nUsage: $0 --vcf VCF_FILE --out OUTPUT_FILE\n";
+) or die "Usage: $0 --vcf VCF_FILE [--out OUTPUT_FILE]\n";
+if (!defined $inpVCF){
+	die "Please provide the VCF file.\nUsage: $0 --vcf VCF_FILE [--out OUTPUT_FILE]\n";
+} else {
+	open(VCF, "$inpVCF") or die "Unable to read the input file: $inpVCF\n";
 }
-open(VCF, "$inpVCF") or die "Unable to read the input file: $inpVCF\n";
-open(OUT, ">$outFile") or die "Unable to write to the output file: $outFile\n";
+if (defined $outFile){
+	open(OUT, ">$outFile") or die "Unable to write to the output file: $outFile\n";
+} else {
+	*OUT = *STDOUT;
+}
 print OUT "CHR\tPOS\tREF\tALT\tALT_ALLELE_FREQ\tMINOR_ALLELE\tMINOR_ALLELE_FREQ\tTOTAL_GENOTYPE\tTOTAL_HET_GENOTYPE\tTOTAL_HOM_ALT_GENOTYPE\tTOTAL_HOM_REF_GENOTYPE\n";
 while (my $row=<VCF>) {
 	chomp $row;
@@ -54,3 +59,5 @@ while (my $row=<VCF>) {
 		print OUT "$chr\t$pos\t$ref\t$alt\t$altAllelefreq\t$minorAllele\t$minorAlleleFreq\t$totalGTcount\t$totalHetGTCount\t$homAltGTCount\t$homRefGTCount\n";
 	}
 }
+close VCF;
+close OUT if defined $outFile;
