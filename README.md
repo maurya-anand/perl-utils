@@ -31,12 +31,13 @@ Using the 'text color' and 'underline' properties, highlight a specific sub stri
 1. Usage
 
     ```bash
-    perl calculate-allele-frequency.pl <inut vcf file> > <output file>
+    perl allele-frequency.pl --vcf VCF_FILE [--out OUTPUT_FILE] [--withnames]
     ```
 
-    Output
+    Output:
 
-    The output file will contain the following columns
+    By default, the output will contain the following coulms and will be displayed on `stdout`:
+
     - CHR
     - POS
     - REF
@@ -45,3 +46,16 @@ Using the 'text color' and 'underline' properties, highlight a specific sub stri
     - TOTAL_GENOTYPE
     - TOTAL_HET
     - TOTAL_HOM
+    - SAMPLE_NAME(s) (included if `--withnames` parameter is specified)
+
+    If the `--out` parameter is specified, the output will be writen to a file.
+    
+    Use as an executable binary:
+
+    ```bash
+    curl -o freq https://raw.githubusercontent.com/maurya-anand/perl-utils/refs/heads/main/allele-frequency/allele-frequency.pl && chmod +x freq
+    ```
+
+    ```bash
+    ./freq --vcf VCF_FILE [--out OUTPUT_FILE] [--withnames]
+    ```
